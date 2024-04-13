@@ -6,7 +6,37 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>My CV</title>
+    <title>RENAME_ME</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/0a109251-0bd3-45d6-911e-a23d76d59593</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/0a109251-0bd3-45d6-911e-a23d76d59593</guid>
+    <description> ok Java Team Planner github.com/torgovtsev/SpaceT-Calendar.</description>
+    <pubDate>Sat, 13 Apr 2024 07:20:31 GMT</pubDate>
+  </item><item>
+    <title>RENAME_ME</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/f2eef0c5-ba7c-425f-b6fb-69792058c59e</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/f2eef0c5-ba7c-425f-b6fb-69792058c59e</guid>
+    <description> ok Techportal Java 8, Spring (Core), Hibernate, git, React. Implemented the core database design of 6 tables for the module. Implemented the business layer features.</description>
+    <pubDate>Sat, 13 Apr 2024 07:15:37 GMT</pubDate>
+  </item><item>
+    <title>RENAME_ME</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/8aadfe6e-c352-4459-9044-0a45bafea13b</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/8aadfe6e-c352-4459-9044-0a45bafea13b</guid>
+    <description> ok REHA.Complete The web CRM for Austrian government rehabilitation healthcare organization. The application handles the entire lifecycle of clinical orders, vital signs management, printing reports, diagnoses management, and other aspects of clinic operations.</description>
+    <pubDate>Sat, 13 Apr 2024 07:15:20 GMT</pubDate>
+  </item><item>
+    <title>Bank service - Underwriting</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/bb5c28dd-dd2c-4bf6-8478-8643eabec566</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/bb5c28dd-dd2c-4bf6-8478-8643eabec566</guid>
+    <description>The stack mostly contained micro-libraries. The mapping to well-known stack is following: Broker - Alpha framework (written in-house) Transactions - Alpha framework ORM - JOOQ DI - Guice REST - Spark regular stack: Java, Kotlin, Postgress, SQL, Bitbucket, Docker, Grafana, Google Cloud Platform, Teamcity.</description>
+    <pubDate>Sat, 13 Apr 2024 07:12:41 GMT</pubDate>
+  </item><item>
+    <title>Taxi service - voice order</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/057955c7-e07a-45f2-aa25-4078f1d7b055</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/057955c7-e07a-45f2-aa25-4078f1d7b055</guid>
+    <description>Implemented from scratch to high-CCU production and became a maintainer of a backend microservice. The service enables taxi passengers order a taxi via giving commands as an answer to voice guidance.</description>
+    <pubDate>Sat, 13 Apr 2024 07:08:38 GMT</pubDate>
+  </item><item>
+    <title>CV entry point - backend Java / Kotlin developer</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/e3a259d5-7b96-4a2a-9e58-7681eb27761b</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/e3a259d5-7b96-4a2a-9e58-7681eb27761b</guid>
     <description>Projects A list of projects I participated during my professional career. Contacts linkedin.com/in/7560fe4d/ github.com/ivan-kopylove leetcode.com/user1804ms/ www.youtube.com/channel/UCcCgPYNyVE68elTfgk4BlyQ vk.com/id408618006 Kopylov Ivan - backend Java / Kotlin developer 15 days of sick leaves since 2016 (counted by payslips).</description>
@@ -15,13 +45,13 @@
     <title>Projects</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/3474e5df-8f31-448f-99dd-67c7dbc05b9b</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/3474e5df-8f31-448f-99dd-67c7dbc05b9b</guid>
-    <description>Taxi voice order Implemented from scratch to high-CCU production and became a maintainer of a backend microservice. The service enables taxi passengers order a taxi via giving commands as an answer to voice guidance.</description>
+    <description>Transclude of 057955c7-e07a-45f2-aa25-4078f1d7b055 Transclude of bb5c28dd-dd2c-4bf6-8478-8643eabec566 Transclude of 8aadfe6e-c352-4459-9044-0a45bafea13b Transclude ...</description>
     <pubDate>Sat, 13 Apr 2024 05:29:13 GMT</pubDate>
   </item><item>
     <title>Welcome to Ivan Kopylov</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/</guid>
-    <description>Hey, I am Ivan. This is my personal page where I post different things related to my area of interest. Here is my CV.</description>
+    <description>Hey, I am Ivan. This is my personal page where I post different things related to my area of interest. Here is my CV: Backend Java Kotlin developer.</description>
     <pubDate>Sat, 13 Apr 2024 05:29:13 GMT</pubDate>
   </item>
     </channel>
