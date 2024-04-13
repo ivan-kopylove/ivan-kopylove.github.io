@@ -6,34 +6,22 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Example Title2</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/9fee96a2-3afc-4aca-afc5-c90d7af07fdb/</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/9fee96a2-3afc-4aca-afc5-c90d7af07fdb/</guid>
-    <description></description>
-    <pubDate>Sat, 13 Apr 2024 06:14:58 GMT</pubDate>
+    <title>My CV</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/cd0d6872-b850-4968-8c86-64df8150054b</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/cd0d6872-b850-4968-8c86-64df8150054b</guid>
+    <description>A list of projects I participated during my profecctional career.</description>
+    <pubDate>Sat, 13 Apr 2024 06:45:11 GMT</pubDate>
   </item><item>
-    <title>projects - Copy</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/projects---Copy</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/projects---Copy</guid>
-    <description> ok Taxi voice order ai rephrases Underwriting The stack mostly contained micro-libraries. The mapping to well-known stack is following: Broker - Alpha framework (written in-house) Transactions - Alpha framework ORM - JOOQ DI - Guice REST - Spark regular stack: Java, Kotlin, Postgress, SQL, Bitbucket, Docker, Grafana, Google Cloud Platform, Teamcity.</description>
-    <pubDate>Sat, 13 Apr 2024 06:04:58 GMT</pubDate>
-  </item><item>
-    <title>qwe</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/9fee96a2-3afc-4aca-afc5-c90d7af07fdb/9fee96a2-3afc-4aca-afc5-c90d7af07fdb</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/9fee96a2-3afc-4aca-afc5-c90d7af07fdb/9fee96a2-3afc-4aca-afc5-c90d7af07fdb</guid>
-    <description></description>
-    <pubDate>Sat, 13 Apr 2024 06:02:58 GMT</pubDate>
-  </item><item>
-    <title>projects</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/projects</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/projects</guid>
-    <description> ok Taxi voice order ai rephrases Underwriting The stack mostly contained micro-libraries. The mapping to well-known stack is following: Broker - Alpha framework (written in-house) Transactions - Alpha framework ORM - JOOQ DI - Guice REST - Spark regular stack: Java, Kotlin, Postgress, SQL, Bitbucket, Docker, Grafana, Google Cloud Platform, Teamcity.</description>
+    <title>Projects</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/3474e5df-8f31-448f-99dd-67c7dbc05b9b</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/3474e5df-8f31-448f-99dd-67c7dbc05b9b</guid>
+    <description>Taxi voice order Implemented from scratch to high-CCU production and became a maintainer of a backend microservice. The service enables taxi passengers order a taxi via giving commands as an answer to voice guidance.</description>
     <pubDate>Sat, 13 Apr 2024 05:29:13 GMT</pubDate>
   </item><item>
-    <title>Welcome to Quartz</title>
+    <title>Welcome to Ivan Kopylov</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <description>Hey, I am Ivan. This is my personal page where I post different things related to my area of interest. Here is my CV.</description>
     <pubDate>Sat, 13 Apr 2024 05:29:13 GMT</pubDate>
   </item>
     </channel>
