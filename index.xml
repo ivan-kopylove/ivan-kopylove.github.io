@@ -6,6 +6,18 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Technologies experience</title>
+    <link>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/84591e6a-5b61-4819-8195-02ce34d23ea0</link>
+    <guid>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/84591e6a-5b61-4819-8195-02ce34d23ea0</guid>
+    <description>Technologies experience Intervals working with technologies. TechnologyIntervalCompaniesProjectsKotlin2021-06..now()Revolut, Maxim TechnologySpring (IoC, REST, MVC)2015-11..2024-01RTLabs, Deutsche Telekom IT Solutions, Maxim Technologygradle2021-06..2024-10Revolut, Maxim TechnologyAsterisk2023-08..now()Maxim Technologyresilience4jJackson serializationDeutsche Telekom IT Solutions, Maxim TechnologyLog4j + SLF4JDeutsche Telekom IT Solutions, Maxim TechnologyJava 82019..2021Java 62016..2019macOS2021-06..2022-10RevolutJOOQ2021-06..2022-10RevolutUnderwritinSQL2015..now()allallLinux2012..now();allallFlyway2021-06..2022-10hibernate + JPADeutsche Telekom IT SolutionsJDBCHibernate2015-11..2021-01RTLabs, Deutsche Telekom IT Solutions…, RehaDockerfrom time to timeApache CamelDeutsche Telekom IT SolutionsJasper,2017-05..2021-01Deutsche Telekom IT SolutionsOrbeon2017-05..2021-01Deutsche Telekom IT SolutionsSpring (Security)Deutsche Telekom IT Solutions Calendar,liquibase2016-03..2021-01oracle database2016-03..2021-01Deutsche Telekom IT Solutionsmaven2016-03..2021-01Deutsche Telekom IT SolutionsMapStructapache Tomcat and Servlets2015-03..2021-01Deutsche Telekom IT Solutions, RTLabssparx2021-06..2022-10RevolutUnderwritingpdfbox2019..2021Deutsche Telekom IT SolutionsREHAWicket2017-11..2021-01T-sysRehaQuova Geo IP API2012..2014vkAutoIT2012..2014vk.</description>
+    <pubDate>Sat, 13 Apr 2024 20:19:53 GMT</pubDate>
+  </item><item>
+    <title>Engineering Patterns</title>
+    <link>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/297aa93d-1b71-4425-b745-b78a2fbd63e8</link>
+    <guid>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/297aa93d-1b71-4425-b745-b78a2fbd63e8</guid>
+    <description>Patterns Here I collect patterns I come across daily practice. decorator / wrappers - decorated an AGI script with boilerplate circuit breaker - to prevent calls when API key of a downstream service changed round robin facade proxy factory sliding window off by one error marker interface .</description>
+    <pubDate>Sat, 13 Apr 2024 19:50:18 GMT</pubDate>
+  </item><item>
     <title>CV</title>
     <link>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/</link>
     <guid>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/</guid>
@@ -33,13 +45,13 @@
     <title>Companies</title>
     <link>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/814b6c4c-6672-434c-a42c-5140feb5ee6b</link>
     <guid>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/814b6c4c-6672-434c-a42c-5140feb5ee6b</guid>
-    <description>Maxim technology 2023-08 – now() Full time Software Engineer Activities: Voice order project English course Career Break 2022-10-01 – 2023-08-18 Personal goal pursuit Activitiy ...</description>
+    <description>Maxim technology 2023-08 – now() Full time Software Engineer at Telephony (PBX) department Activities: Voice order project English course Career Break 2022-10-01 – 2023-08-18 ...</description>
     <pubDate>Sat, 13 Apr 2024 07:49:23 GMT</pubDate>
   </item><item>
     <title>Kopylov Ivan - backend Java / Kotlin developer</title>
     <link>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/e3a259d5-7b96-4a2a-9e58-7681eb27761b</link>
     <guid>https://https:/ivan-kopylove.github.io/fa7c894e-45f4-4628-aee0-b0d1fc46cb85/e3a259d5-7b96-4a2a-9e58-7681eb27761b</guid>
-    <description> Summary Has an experience with CI / CD, DD (ubiquitous language, bounded contexts) and with the majority of extreme programming artifacts. Experience in software life cycle (design, development, delivery, deployment, and support).</description>
+    <description> Summary Has an experience with CI / CD, DDD (ubiquitous language, bounded contexts) and with the majority of extreme programming artifacts. Experience in software life cycle (design, development, delivery, deployment, and support).</description>
     <pubDate>Sat, 13 Apr 2024 06:57:19 GMT</pubDate>
   </item><item>
     <title>Projects</title>
@@ -53,12 +65,6 @@
     <guid>https://https:/ivan-kopylove.github.io/</guid>
     <description>Hey, I am Ivan 🖐 This is my personal digital garden where I post different things related to my area of interest. You can start by just haphazardly exploring to accidentally come across to something interesting.</description>
     <pubDate>Sat, 13 Apr 2024 05:29:13 GMT</pubDate>
-  </item><item>
-    <title>7791082c-9c7d-46e6-9a4f-6c91b98da17e</title>
-    <link>https://https:/ivan-kopylove.github.io/33ce1b23-66ca-422c-a263-916c86810f30/7791082c-9c7d-46e6-9a4f-6c91b98da17e</link>
-    <guid>https://https:/ivan-kopylove.github.io/33ce1b23-66ca-422c-a263-916c86810f30/7791082c-9c7d-46e6-9a4f-6c91b98da17e</guid>
-    <description>2024-01-24 11:34:45,030 [TECHNICAL_STEP: AJ DaemonPool-1.2] [anonymized] [voip-pbx01-1706085268.3971554] WARN [ru.xxx.service.logic.anonymized] || message: path doesn&#039;t ...</description>
-    <pubDate>Wed, 31 Jan 2024 12:48:50 GMT</pubDate>
   </item>
     </channel>
   </rss>
