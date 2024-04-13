@@ -6,48 +6,6 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Java Team Planner</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/0a109251-0bd3-45d6-911e-a23d76d59593</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/0a109251-0bd3-45d6-911e-a23d76d59593</guid>
-    <description>github.com/torgovtsev/SpaceT-Calendar.</description>
-    <pubDate>Sat, 13 Apr 2024 07:20:31 GMT</pubDate>
-  </item><item>
-    <title>MGT - IP location tool</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/6ac5b9b7-6537-4af8-9ea4-aac807f647e5</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/6ac5b9b7-6537-4af8-9ea4-aac807f647e5</guid>
-    <description>Jan 2013 — Jul 2015 Acted as the subject field expert and as the main and the only developer. Implemented database cache design to cache IP information from external API.</description>
-    <pubDate>Sat, 13 Apr 2024 07:17:57 GMT</pubDate>
-  </item><item>
-    <title>Malware reporter bot</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/e4ed839a-7bde-40cd-aec9-dcd594a8c60d</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/e4ed839a-7bde-40cd-aec9-dcd594a8c60d</guid>
-    <description>2014-02 — Sep 2015 Implemented application solo from scratch. Acted as the subject field expert and as the main and the only developer. C# SkypeBot automatically reports phishing and malware websites to hosters.</description>
-    <pubDate>Sat, 13 Apr 2024 07:15:57 GMT</pubDate>
-  </item><item>
-    <title>Techportal</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/f2eef0c5-ba7c-425f-b6fb-69792058c59e</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/f2eef0c5-ba7c-425f-b6fb-69792058c59e</guid>
-    <description>Java 8, Spring (Core), Hibernate, git, React. Implemented the core database design of 6 tables for the module. Implemented the business layer features. Implemented user web-UI module using React.</description>
-    <pubDate>Sat, 13 Apr 2024 07:15:37 GMT</pubDate>
-  </item><item>
-    <title>REHA.Complete</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/8aadfe6e-c352-4459-9044-0a45bafea13b</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/8aadfe6e-c352-4459-9044-0a45bafea13b</guid>
-    <description>REHA.Complete The web CRM for Austrian government rehabilitation healthcare organization. The application handles the entire lifecycle of clinical orders, vital signs management, printing reports, diagnoses management, and other aspects of clinic operations.</description>
-    <pubDate>Sat, 13 Apr 2024 07:15:20 GMT</pubDate>
-  </item><item>
-    <title>Bank service - Underwriting</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/bb5c28dd-dd2c-4bf6-8478-8643eabec566</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/bb5c28dd-dd2c-4bf6-8478-8643eabec566</guid>
-    <description>The stack mostly contained micro-libraries. The mapping to well-known stack is following: Broker - Alpha framework (written in-house) Transactions - Alpha framework ORM - JOOQ DI - Guice REST - Spark regular stack: Java, Kotlin, Postgress, SQL, Bitbucket, Docker, Grafana, Google Cloud Platform, Teamcity.</description>
-    <pubDate>Sat, 13 Apr 2024 07:12:41 GMT</pubDate>
-  </item><item>
-    <title>Taxi service - voice order</title>
-    <link>https://https:/ivan-kopylove.github.io/digital-garden/057955c7-e07a-45f2-aa25-4078f1d7b055</link>
-    <guid>https://https:/ivan-kopylove.github.io/digital-garden/057955c7-e07a-45f2-aa25-4078f1d7b055</guid>
-    <description>Implemented from scratch to high-CCU production and became a maintainer of a backend microservice. The service enables taxi passengers order a taxi via giving commands as an answer to voice guidance.</description>
-    <pubDate>Sat, 13 Apr 2024 07:08:38 GMT</pubDate>
-  </item><item>
     <title>Java / Kotlin backend developer</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/e3a259d5-7b96-4a2a-9e58-7681eb27761b</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/e3a259d5-7b96-4a2a-9e58-7681eb27761b</guid>
@@ -57,7 +15,7 @@
     <title>Projects</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/3474e5df-8f31-448f-99dd-67c7dbc05b9b</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/3474e5df-8f31-448f-99dd-67c7dbc05b9b</guid>
-    <description>Transclude of 057955c7-e07a-45f2-aa25-4078f1d7b055 Transclude of bb5c28dd-dd2c-4bf6-8478-8643eabec566 Transclude of 8aadfe6e-c352-4459-9044-0a45bafea13b Transclude ...</description>
+    <description>voice order - taxi service Implemented from scratch to high-CCU production and became a maintainer of a backend microservice. The service enables taxi passengers order a taxi via giving commands as an answer to voice guidance.</description>
     <pubDate>Sat, 13 Apr 2024 05:29:13 GMT</pubDate>
   </item><item>
     <title>Welcome to Ivan Kopylov</title>
