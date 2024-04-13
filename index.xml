@@ -6,22 +6,34 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>RENAME_ME</title>
+    <title>Java Team Planner</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/0a109251-0bd3-45d6-911e-a23d76d59593</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/0a109251-0bd3-45d6-911e-a23d76d59593</guid>
-    <description> ok Java Team Planner github.com/torgovtsev/SpaceT-Calendar.</description>
+    <description>github.com/torgovtsev/SpaceT-Calendar.</description>
     <pubDate>Sat, 13 Apr 2024 07:20:31 GMT</pubDate>
   </item><item>
-    <title>RENAME_ME</title>
+    <title>MGT - IP location tool</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/6ac5b9b7-6537-4af8-9ea4-aac807f647e5</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/6ac5b9b7-6537-4af8-9ea4-aac807f647e5</guid>
+    <description>Jan 2013 — Jul 2015 Acted as the subject field expert and as the main and the only developer. Implemented database cache design to cache IP information from external API.</description>
+    <pubDate>Sat, 13 Apr 2024 07:17:57 GMT</pubDate>
+  </item><item>
+    <title>Malware reporter bot</title>
+    <link>https://https:/ivan-kopylove.github.io/digital-garden/e4ed839a-7bde-40cd-aec9-dcd594a8c60d</link>
+    <guid>https://https:/ivan-kopylove.github.io/digital-garden/e4ed839a-7bde-40cd-aec9-dcd594a8c60d</guid>
+    <description>2014-02 — Sep 2015 Implemented application solo from scratch. Acted as the subject field expert and as the main and the only developer. C# SkypeBot automatically reports phishing and malware websites to hosters.</description>
+    <pubDate>Sat, 13 Apr 2024 07:15:57 GMT</pubDate>
+  </item><item>
+    <title>Techportal</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/f2eef0c5-ba7c-425f-b6fb-69792058c59e</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/f2eef0c5-ba7c-425f-b6fb-69792058c59e</guid>
-    <description> ok Techportal Java 8, Spring (Core), Hibernate, git, React. Implemented the core database design of 6 tables for the module. Implemented the business layer features.</description>
+    <description>Java 8, Spring (Core), Hibernate, git, React. Implemented the core database design of 6 tables for the module. Implemented the business layer features. Implemented user web-UI module using React.</description>
     <pubDate>Sat, 13 Apr 2024 07:15:37 GMT</pubDate>
   </item><item>
-    <title>RENAME_ME</title>
+    <title>REHA.Complete</title>
     <link>https://https:/ivan-kopylove.github.io/digital-garden/8aadfe6e-c352-4459-9044-0a45bafea13b</link>
     <guid>https://https:/ivan-kopylove.github.io/digital-garden/8aadfe6e-c352-4459-9044-0a45bafea13b</guid>
-    <description> ok REHA.Complete The web CRM for Austrian government rehabilitation healthcare organization. The application handles the entire lifecycle of clinical orders, vital signs management, printing reports, diagnoses management, and other aspects of clinic operations.</description>
+    <description>REHA.Complete The web CRM for Austrian government rehabilitation healthcare organization. The application handles the entire lifecycle of clinical orders, vital signs management, printing reports, diagnoses management, and other aspects of clinic operations.</description>
     <pubDate>Sat, 13 Apr 2024 07:15:20 GMT</pubDate>
   </item><item>
     <title>Bank service - Underwriting</title>
