@@ -1,1 +1,0 @@
-# ivan-kopylove.github.io
