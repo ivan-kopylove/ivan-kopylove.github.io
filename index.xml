@@ -7,63 +7,63 @@
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>index</title>
-    <link>https://ivan-kopylove.github.io/ef735949-4423-4b43-a5f2-51d4b385523d/</link>
-    <guid>https://ivan-kopylove.github.io/ef735949-4423-4b43-a5f2-51d4b385523d/</guid>
-    <description>Hello, my name is Ivan and this is my digital garden 🪴. You can start exploring with Programming - entry point or just by exploring the menu.</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
+    <link>https://ivan-kopylove.github.io/</link>
+    <guid>https://ivan-kopylove.github.io/</guid>
+    <description>Hello, my name is Ivan and this is my incubator 🪴 I’m programmer (kotlin mostly) and this garden reflects some ideas being incubated at different stages of maturity 🚧 related to some ...</description>
+    <pubDate>Fri, 14 Feb 2025 15:31:02 GMT</pubDate>
+  </item><item>
+    <title>1137088d-ca1f-4799-b59d-7ddac07c448a</title>
+    <link>https://ivan-kopylove.github.io/1137088d-ca1f-4799-b59d-7ddac07c448a/1137088d-ca1f-4799-b59d-7ddac07c448a</link>
+    <guid>https://ivan-kopylove.github.io/1137088d-ca1f-4799-b59d-7ddac07c448a/1137088d-ca1f-4799-b59d-7ddac07c448a</guid>
+    <description>Фарш назад не провернуть It is much easier to start from scratch rather than calculate proper rollback path. The concept is applied for many different thing so that has become a rule of thumb: iterators - throw exceptions if tried to reuse streams - throw exceptions if tried to reuse immutable objects … Question What interfaces enable syntax sugar in Java? … Question What is something related to hashcode / equals and posmotre.ch/Мы_с_Тамарой_ходим_парой Question Imagine myself being at interview when Dmitry G___ asked me about something related to hashcode and equality? .</description>
+    <pubDate>Fri, 14 Feb 2025 15:28:29 GMT</pubDate>
+  </item><item>
+    <title>11f09ce6-917f-4090-8ac2-50f75f7b1afb</title>
+    <link>https://ivan-kopylove.github.io/11f09ce6-917f-4090-8ac2-50f75f7b1afb/11f09ce6-917f-4090-8ac2-50f75f7b1afb</link>
+    <guid>https://ivan-kopylove.github.io/11f09ce6-917f-4090-8ac2-50f75f7b1afb/11f09ce6-917f-4090-8ac2-50f75f7b1afb</guid>
+    <description>Например о CPU удобно думать, как о некой абстракции, потому что это 5-6 слоев ниже, чем тот уровень, которым я оперирую и все детали вымылись, во-первых еще на первом уровне абстракции, ...</description>
+    <pubDate>Fri, 14 Feb 2025 15:27:21 GMT</pubDate>
+  </item><item>
+    <title>fb8d9adf-4b4f-4abe-9c8a-f63a58b75954</title>
+    <link>https://ivan-kopylove.github.io/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954</link>
+    <guid>https://ivan-kopylove.github.io/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954</guid>
+    <description>Каждое эмпирическое правило (rule of thumb / best practice) нужно проверять на применимость в каждом конкретном случае Best practices aka rule of thumb What is non-standard thing ...</description>
+    <pubDate>Fri, 14 Feb 2025 15:26:48 GMT</pubDate>
+  </item><item>
+    <title>4d29fc0e-0d89-4ab7-9b21-3784e681f542</title>
+    <link>https://ivan-kopylove.github.io/4d29fc0e-0d89-4ab7-9b21-3784e681f542/4d29fc0e-0d89-4ab7-9b21-3784e681f542</link>
+    <guid>https://ivan-kopylove.github.io/4d29fc0e-0d89-4ab7-9b21-3784e681f542/4d29fc0e-0d89-4ab7-9b21-3784e681f542</guid>
+    <description>… был дефицитстал профицитпривычка осталасьСССР; мало инфы; смакуеминтернет; полно книгзакапываемся; в мусоре трудно найти главноелимитированный трафик;безлимит; интернет ...</description>
+    <pubDate>Fri, 14 Feb 2025 15:25:45 GMT</pubDate>
+  </item><item>
+    <title>b7cf1748-4d70-46c0-969a-a0553219d1bd</title>
+    <link>https://ivan-kopylove.github.io/b7cf1748-4d70-46c0-969a-a0553219d1bd/b7cf1748-4d70-46c0-969a-a0553219d1bd</link>
+    <guid>https://ivan-kopylove.github.io/b7cf1748-4d70-46c0-969a-a0553219d1bd/b7cf1748-4d70-46c0-969a-a0553219d1bd</guid>
+    <description>I think in factorio everything is working so fast because of all the items / buildings / entities are stored in memory registries and they properly queried e.g.: when I need to query ...</description>
+    <pubDate>Fri, 14 Feb 2025 15:25:30 GMT</pubDate>
+  </item><item>
+    <title>38ad7489-b1b5-4274-a23b-f073e2542932</title>
+    <link>https://ivan-kopylove.github.io/38ad7489-b1b5-4274-a23b-f073e2542932/38ad7489-b1b5-4274-a23b-f073e2542932</link>
+    <guid>https://ivan-kopylove.github.io/38ad7489-b1b5-4274-a23b-f073e2542932/38ad7489-b1b5-4274-a23b-f073e2542932</guid>
+    <description>… Imagine a class does 2 things, but I need to inject it only to call 1 method Then I rename the initial class and all the usages affected no matter related or not Why this is bad for teamplay? ...</description>
+    <pubDate>Fri, 14 Feb 2025 15:24:56 GMT</pubDate>
+  </item><item>
+    <title>84591e6a-5b61-4819-8195-02ce34d23ea0</title>
+    <link>https://ivan-kopylove.github.io/84591e6a-5b61-4819-8195-02ce34d23ea0/84591e6a-5b61-4819-8195-02ce34d23ea0</link>
+    <guid>https://ivan-kopylove.github.io/84591e6a-5b61-4819-8195-02ce34d23ea0/84591e6a-5b61-4819-8195-02ce34d23ea0</guid>
+    <description>… Technological experience Once in a while I actualize the intervals of technologies I have worked with. TechnologyIntervalProjectsSpring (IoC, REST, MVC)2015-11..now()allKotlin2021-06..now()Voice-Order - Project, UnderwritingAsterisk2023-08..now()Voice-Order - Projectasterisk-java (AGI)2023-08..now()Voice-Order - ProjectJUnit2016-11..now()REHA.Complete, Voice-Order - ProjectWiremock2021-06..now()Underwriting, Voice-Order - ProjectMockito2016-11..now()REHA.Complete, Voice-Order - ProjectSQL2015..now()allmicrometer2023-08..now()Voice-Order - Projectsilero2023-08..now()Voice-Order - ProjectHibernate + JPA2015-11..2021-01REHA.Complete, TechportalGrafana2023-08..now()Voice-Order - ProjectLinux2012..now();allgradle2021-06..2024-10Voice-Order - Projectresilience4j2024-02..2024-04Voice-Order - ProjectJackson2017-05..2020-12Voice-Order - Project, Underwriting, REHA.CompleteLog4j + SLF4J2023-08..now()Voice-Order - ProjectJava 82019..2021REHA.CompleteJava 62016..2019REHA.CompletemacOS2021-06..2022-10Underwritingsparx2021-06..2022-10UnderwritingJOOQ2021-06..2022-10UnderwritingFlyway2021-06..2022-10UnderwritingLiquibase2016-11..2020-12JDBCfrom time to timeDockerfrom time to timeApache Camel2016-11..2020-12REHA.CompleteJasper2017-05..2020-12REHA.CompleteOrbeon2017-05..2020-12REHA.CompleteSpring (Security)Calendar PlannerOracle Database2016-11..2020-12REHA.CompleteMaven2016-03..2020-12Dozer Mapper2016-11..2020-12REHA.CompleteMapStruct2018-01..2020-12REHA.CompleteApache Tomcat and Servlets2015-03..2021-01REHA.Complete, Techportalpdfbox2018-04..2020-12REHA.CompleteWicket2017-11..2021-01REHA.CompleteQuova Geo IP API2012..2014MGT - IP location toolAutoIT2012..2014.</description>
+    <pubDate>Fri, 14 Feb 2025 15:22:22 GMT</pubDate>
+  </item><item>
+    <title>3a6e51f8-5040-4a3b-ab18-2d9c6d850efa</title>
+    <link>https://ivan-kopylove.github.io/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa</link>
+    <guid>https://ivan-kopylove.github.io/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa</guid>
+    <description>Artifacts git &gt; diff and just say out loud what I’ve done Sync intervals daily weekly / sprinly (result) monthly (retrospective) quarterly (retrospective) yearly (retrospective) ...</description>
+    <pubDate>Sun, 02 Feb 2025 20:26:19 GMT</pubDate>
   </item><item>
     <title>e981a07e-ab1b-437b-aaaf-75ab98c6c6d4</title>
     <link>https://ivan-kopylove.github.io/e981a07e-ab1b-437b-aaaf-75ab98c6c6d4/e981a07e-ab1b-437b-aaaf-75ab98c6c6d4</link>
     <guid>https://ivan-kopylove.github.io/e981a07e-ab1b-437b-aaaf-75ab98c6c6d4/e981a07e-ab1b-437b-aaaf-75ab98c6c6d4</guid>
-    <description>English verbs English aux verbs is well-reflected in OOP languages: everything is this world is either is or has is - variables / fields (state) has - aggregation / composition (actions) ...</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>bc9644de-65da-4e45-bc09-f66f23a4b116</title>
-    <link>https://ivan-kopylove.github.io/bc9644de-65da-4e45-bc09-f66f23a4b116/bc9644de-65da-4e45-bc09-f66f23a4b116</link>
-    <guid>https://ivan-kopylove.github.io/bc9644de-65da-4e45-bc09-f66f23a4b116/bc9644de-65da-4e45-bc09-f66f23a4b116</guid>
-    <description>Narrative Scale of effect examples of systematic approach: A system is mechanism. Government. Software. Driving regulations. Standard design of a school building.</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>b4c91c15-fa5e-447b-996f-6e9987cfffe2</title>
-    <link>https://ivan-kopylove.github.io/b4c91c15-fa5e-447b-996f-6e9987cfffe2/b4c91c15-fa5e-447b-996f-6e9987cfffe2</link>
-    <guid>https://ivan-kopylove.github.io/b4c91c15-fa5e-447b-996f-6e9987cfffe2/b4c91c15-fa5e-447b-996f-6e9987cfffe2</guid>
-    <description>ИИ - рычаг natural challengeeliminated by leverexercised culturallyspeaking foreign languagereal-time translationpracticing without toolsручной трудмашиныспортзаллопататракторспортзалживописьфотографиярисовать ...</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>15010193-0820-401d-a77a-0270c67e4b8c</title>
-    <link>https://ivan-kopylove.github.io/15010193-0820-401d-a77a-0270c67e4b8c/15010193-0820-401d-a77a-0270c67e4b8c</link>
-    <guid>https://ivan-kopylove.github.io/15010193-0820-401d-a77a-0270c67e4b8c/15010193-0820-401d-a77a-0270c67e4b8c</guid>
-    <description>SOLID - SRP is about decomposition Размышление Как достичь баланса в декомпозции? В промышленной разработке декомпозиция - очень частая задача на разных уровнях - архитектура, ...</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>75723d1a-803a-4b49-888d-67a18d67e38b</title>
-    <link>https://ivan-kopylove.github.io/75723d1a-803a-4b49-888d-67a18d67e38b/75723d1a-803a-4b49-888d-67a18d67e38b</link>
-    <guid>https://ivan-kopylove.github.io/75723d1a-803a-4b49-888d-67a18d67e38b/75723d1a-803a-4b49-888d-67a18d67e38b</guid>
-    <description>$= dv.current().aliases.first() await dv.view(&quot;searches&quot;, {query: `${dv.current().aliases}`, collapse: true}).</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>7079d85c-b318-4550-8578-280f5bbaf585</title>
-    <link>https://ivan-kopylove.github.io/7079d85c-b318-4550-8578-280f5bbaf585/7079d85c-b318-4550-8578-280f5bbaf585</link>
-    <guid>https://ivan-kopylove.github.io/7079d85c-b318-4550-8578-280f5bbaf585/7079d85c-b318-4550-8578-280f5bbaf585</guid>
-    <description></description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>5471b960-1c95-40b7-8f00-8e162c8fdefe</title>
-    <link>https://ivan-kopylove.github.io/5471b960-1c95-40b7-8f00-8e162c8fdefe/5471b960-1c95-40b7-8f00-8e162c8fdefe</link>
-    <guid>https://ivan-kopylove.github.io/5471b960-1c95-40b7-8f00-8e162c8fdefe/5471b960-1c95-40b7-8f00-8e162c8fdefe</guid>
-    <description>Reusable analogies garbage collector работает по принципу “шкаф - балкон - дача” given-when-then is a дано-найти-решение Когда объекты мапятся между слоями чтобы избавиться ...</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>0689d6b7-086b-411f-af78-241322485d0b</title>
-    <link>https://ivan-kopylove.github.io/0689d6b7-086b-411f-af78-241322485d0b/0689d6b7-086b-411f-af78-241322485d0b</link>
-    <guid>https://ivan-kopylove.github.io/0689d6b7-086b-411f-af78-241322485d0b/0689d6b7-086b-411f-af78-241322485d0b</guid>
-    <description>Why is that better to have a traffic of minor challenges for any system (biological, government, society)? How this related to Broken windows theory? The system (government, biological ...</description>
-    <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>658a4b9a-1ce8-4b87-82ac-a956cb45daa7</title>
-    <link>https://ivan-kopylove.github.io/658a4b9a-1ce8-4b87-82ac-a956cb45daa7/658a4b9a-1ce8-4b87-82ac-a956cb45daa7</link>
-    <guid>https://ivan-kopylove.github.io/658a4b9a-1ce8-4b87-82ac-a956cb45daa7/658a4b9a-1ce8-4b87-82ac-a956cb45daa7</guid>
-    <description>...</description>
+    <description>English verbs Everything is this world is either is or has and we can apply actions on top of that. English auxiliary verbs are not by chance auxiliary - they reflect our life.</description>
     <pubDate>Sat, 25 Jan 2025 09:01:10 GMT</pubDate>
   </item>
     </channel>
