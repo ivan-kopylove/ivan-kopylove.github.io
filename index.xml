@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪸🐚₊˚𓇼</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>4e6683a7-08d0-4057-a47c-94827a86b9f5</title>
-    <link>https://ivan-kopylove.github.io/4e6683a7-08d0-4057-a47c-94827a86b9f5/4e6683a7-08d0-4057-a47c-94827a86b9f5</link>
-    <guid>https://ivan-kopylove.github.io/4e6683a7-08d0-4057-a47c-94827a86b9f5/4e6683a7-08d0-4057-a47c-94827a86b9f5</guid>
+    <title>b84ba651-9982-4146-a5b8-23a60738c241</title>
+    <link>https://ivan-kopylove.github.io/b84ba651-9982-4146-a5b8-23a60738c241/b84ba651-9982-4146-a5b8-23a60738c241</link>
+    <guid>https://ivan-kopylove.github.io/b84ba651-9982-4146-a5b8-23a60738c241/b84ba651-9982-4146-a5b8-23a60738c241</guid>
     <description>...</description>
-    <pubDate>Fri, 14 Feb 2025 15:43:53 GMT</pubDate>
+    <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://ivan-kopylove.github.io/</link>
-    <guid>https://ivan-kopylove.github.io/</guid>
-    <description>Hello, my name is Ivan and this is my incubator 🪴 I’m programmer (kotlin mostly) and this garden reflects some ideas being incubated at different stages of maturity 🚧 related to some ...</description>
-    <pubDate>Fri, 14 Feb 2025 15:31:02 GMT</pubDate>
+    <title>8a540dab-2e31-4cdc-b9d3-273954912a79</title>
+    <link>https://ivan-kopylove.github.io/8a540dab-2e31-4cdc-b9d3-273954912a79/8a540dab-2e31-4cdc-b9d3-273954912a79</link>
+    <guid>https://ivan-kopylove.github.io/8a540dab-2e31-4cdc-b9d3-273954912a79/8a540dab-2e31-4cdc-b9d3-273954912a79</guid>
+    <description>DFS Question Why special cases of DFS traversal are called pre-, in-, post- - where and what happens before, in-between and after? .</description>
+    <pubDate>Wed, 02 Apr 2025 10:59:05 GMT</pubDate>
   </item><item>
-    <title>1137088d-ca1f-4799-b59d-7ddac07c448a</title>
-    <link>https://ivan-kopylove.github.io/1137088d-ca1f-4799-b59d-7ddac07c448a/1137088d-ca1f-4799-b59d-7ddac07c448a</link>
-    <guid>https://ivan-kopylove.github.io/1137088d-ca1f-4799-b59d-7ddac07c448a/1137088d-ca1f-4799-b59d-7ddac07c448a</guid>
-    <description>Фарш назад не провернуть It is much easier to start from scratch rather than calculate proper rollback path. The concept is applied for many different thing so that has become a rule of thumb: iterators - throw exceptions if tried to reuse streams - throw exceptions if tried to reuse immutable objects … Question What interfaces enable syntax sugar in Java? … Question What is something related to hashcode / equals and posmotre.ch/Мы_с_Тамарой_ходим_парой Question Imagine myself being at interview when Dmitry G___ asked me about something related to hashcode and equality? .</description>
-    <pubDate>Fri, 14 Feb 2025 15:28:29 GMT</pubDate>
+    <title>370c61e1-1396-46fd-8747-de60670f7c73</title>
+    <link>https://ivan-kopylove.github.io/370c61e1-1396-46fd-8747-de60670f7c73/370c61e1-1396-46fd-8747-de60670f7c73</link>
+    <guid>https://ivan-kopylove.github.io/370c61e1-1396-46fd-8747-de60670f7c73/370c61e1-1396-46fd-8747-de60670f7c73</guid>
+    <description>...</description>
+    <pubDate>Wed, 02 Apr 2025 10:58:32 GMT</pubDate>
   </item><item>
-    <title>11f09ce6-917f-4090-8ac2-50f75f7b1afb</title>
-    <link>https://ivan-kopylove.github.io/11f09ce6-917f-4090-8ac2-50f75f7b1afb/11f09ce6-917f-4090-8ac2-50f75f7b1afb</link>
-    <guid>https://ivan-kopylove.github.io/11f09ce6-917f-4090-8ac2-50f75f7b1afb/11f09ce6-917f-4090-8ac2-50f75f7b1afb</guid>
-    <description>Например о CPU удобно думать, как о некой абстракции, потому что это 5-6 слоев ниже, чем тот уровень, которым я оперирую и все детали вымылись, во-первых еще на первом уровне абстракции, ...</description>
-    <pubDate>Fri, 14 Feb 2025 15:27:21 GMT</pubDate>
+    <title>e02e5c3e-91eb-43f4-b376-c275f4b054a7</title>
+    <link>https://ivan-kopylove.github.io/e02e5c3e-91eb-43f4-b376-c275f4b054a7/e02e5c3e-91eb-43f4-b376-c275f4b054a7</link>
+    <guid>https://ivan-kopylove.github.io/e02e5c3e-91eb-43f4-b376-c275f4b054a7/e02e5c3e-91eb-43f4-b376-c275f4b054a7</guid>
+    <description>Incubate Бывает что нужно инкубировать - накапливать чтобы сделать в один батч чтобы реже переделывать. Каждая задача триггерит в youtrack триггерит тяжеловесный процесс который требует ручной работы На больших данных миграция бывает тяжеловесной в силу разных причин (например, backfilling), в случае с X это особенно ощутимо согласование модели данных проход по процессу техническая особенность X пишет данные последовательно - желательно реже обновлять поля, потому что под капотом тяжелые операции на больших данных - реиндексация Кумулятивный рефакторинг - подкопил побольше чтобы изменение достаточно повзрослело, чтобы не X слишком часто Заранее не продумаешь и рано или позжно всё равно снова перекладывать классы.</description>
+    <pubDate>Wed, 02 Apr 2025 10:58:06 GMT</pubDate>
   </item><item>
-    <title>fb8d9adf-4b4f-4abe-9c8a-f63a58b75954</title>
-    <link>https://ivan-kopylove.github.io/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954</link>
-    <guid>https://ivan-kopylove.github.io/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954/fb8d9adf-4b4f-4abe-9c8a-f63a58b75954</guid>
-    <description>Каждое эмпирическое правило (rule of thumb / best practice) нужно проверять на применимость в каждом конкретном случае Best practices aka rule of thumb What is non-standard thing ...</description>
-    <pubDate>Fri, 14 Feb 2025 15:26:48 GMT</pubDate>
+    <title>e537a70d-524b-45d1-b68f-a1803b8391f1</title>
+    <link>https://ivan-kopylove.github.io/e537a70d-524b-45d1-b68f-a1803b8391f1/e537a70d-524b-45d1-b68f-a1803b8391f1</link>
+    <guid>https://ivan-kopylove.github.io/e537a70d-524b-45d1-b68f-a1803b8391f1/e537a70d-524b-45d1-b68f-a1803b8391f1</guid>
+    <description>Team Planner A project at Java EE course Stack: Java, Tomcat github.com/torgovtsev/SpaceT-Calendar.</description>
+    <pubDate>Wed, 02 Apr 2025 10:57:50 GMT</pubDate>
   </item><item>
-    <title>4d29fc0e-0d89-4ab7-9b21-3784e681f542</title>
-    <link>https://ivan-kopylove.github.io/4d29fc0e-0d89-4ab7-9b21-3784e681f542/4d29fc0e-0d89-4ab7-9b21-3784e681f542</link>
-    <guid>https://ivan-kopylove.github.io/4d29fc0e-0d89-4ab7-9b21-3784e681f542/4d29fc0e-0d89-4ab7-9b21-3784e681f542</guid>
-    <description>… был дефицитстал профицитпривычка осталасьСССР; мало инфы; смакуеминтернет; полно книгзакапываемся; в мусоре трудно найти главноелимитированный трафик;безлимит; интернет ...</description>
-    <pubDate>Fri, 14 Feb 2025 15:25:45 GMT</pubDate>
+    <title>e2688db7-3b0f-4255-883c-fe46bb24d385</title>
+    <link>https://ivan-kopylove.github.io/e2688db7-3b0f-4255-883c-fe46bb24d385/e2688db7-3b0f-4255-883c-fe46bb24d385</link>
+    <guid>https://ivan-kopylove.github.io/e2688db7-3b0f-4255-883c-fe46bb24d385/e2688db7-3b0f-4255-883c-fe46bb24d385</guid>
+    <description>VK 2010-04-26 — 2015-08-01 Full time Senior Investigating Department Specialist Activities: MGT - IP location tool Malware reporter bot Investigated all kinds of virtual crimes: ...</description>
+    <pubDate>Wed, 02 Apr 2025 10:56:55 GMT</pubDate>
   </item><item>
-    <title>b7cf1748-4d70-46c0-969a-a0553219d1bd</title>
-    <link>https://ivan-kopylove.github.io/b7cf1748-4d70-46c0-969a-a0553219d1bd/b7cf1748-4d70-46c0-969a-a0553219d1bd</link>
-    <guid>https://ivan-kopylove.github.io/b7cf1748-4d70-46c0-969a-a0553219d1bd/b7cf1748-4d70-46c0-969a-a0553219d1bd</guid>
-    <description>I think in factorio everything is working so fast because of all the items / buildings / entities are stored in memory registries and they properly queried e.g.: when I need to query ...</description>
-    <pubDate>Fri, 14 Feb 2025 15:25:30 GMT</pubDate>
+    <title>ce628b49-c2de-427d-95be-9c74978cecfe</title>
+    <link>https://ivan-kopylove.github.io/ce628b49-c2de-427d-95be-9c74978cecfe/ce628b49-c2de-427d-95be-9c74978cecfe</link>
+    <guid>https://ivan-kopylove.github.io/ce628b49-c2de-427d-95be-9c74978cecfe/ce628b49-c2de-427d-95be-9c74978cecfe</guid>
+    <description>… what are the factors to consider a technology? what is the most important principle I read in a Dasgupta’s book when I am picking a solution (technology / algo)? what is army-related ...</description>
+    <pubDate>Wed, 02 Apr 2025 10:56:48 GMT</pubDate>
   </item><item>
-    <title>38ad7489-b1b5-4274-a23b-f073e2542932</title>
-    <link>https://ivan-kopylove.github.io/38ad7489-b1b5-4274-a23b-f073e2542932/38ad7489-b1b5-4274-a23b-f073e2542932</link>
-    <guid>https://ivan-kopylove.github.io/38ad7489-b1b5-4274-a23b-f073e2542932/38ad7489-b1b5-4274-a23b-f073e2542932</guid>
-    <description>… Imagine a class does 2 things, but I need to inject it only to call 1 method Then I rename the initial class and all the usages affected no matter related or not Why this is bad for teamplay? ...</description>
-    <pubDate>Fri, 14 Feb 2025 15:24:56 GMT</pubDate>
+    <title>e5c726fc-7091-4f66-8c18-c0edf85aa7de</title>
+    <link>https://ivan-kopylove.github.io/e5c726fc-7091-4f66-8c18-c0edf85aa7de/e5c726fc-7091-4f66-8c18-c0edf85aa7de</link>
+    <guid>https://ivan-kopylove.github.io/e5c726fc-7091-4f66-8c18-c0edf85aa7de/e5c726fc-7091-4f66-8c18-c0edf85aa7de</guid>
+    <description>PoC / bare minimum Идея прототипной или стартап-разработки в том чтобы не поддерживать системную целостностьsystematic-approach обработать наиболее частые сценарии и запретить ...</description>
+    <pubDate>Wed, 02 Apr 2025 10:56:30 GMT</pubDate>
   </item><item>
-    <title>84591e6a-5b61-4819-8195-02ce34d23ea0</title>
-    <link>https://ivan-kopylove.github.io/84591e6a-5b61-4819-8195-02ce34d23ea0/84591e6a-5b61-4819-8195-02ce34d23ea0</link>
-    <guid>https://ivan-kopylove.github.io/84591e6a-5b61-4819-8195-02ce34d23ea0/84591e6a-5b61-4819-8195-02ce34d23ea0</guid>
-    <description>… Technological experience Once in a while I actualize the intervals of technologies I have worked with. TechnologyIntervalProjectsSpring (IoC, REST, MVC)2015-11..now()allKotlin2021-06..now()Voice-Order - Project, UnderwritingAsterisk2023-08..now()Voice-Order - Projectasterisk-java (AGI)2023-08..now()Voice-Order - ProjectJUnit2016-11..now()REHA.Complete, Voice-Order - ProjectWiremock2021-06..now()Underwriting, Voice-Order - ProjectMockito2016-11..now()REHA.Complete, Voice-Order - ProjectSQL2015..now()allmicrometer2023-08..now()Voice-Order - Projectsilero2023-08..now()Voice-Order - ProjectHibernate + JPA2015-11..2021-01REHA.Complete, TechportalGrafana2023-08..now()Voice-Order - ProjectLinux2012..now();allgradle2021-06..2024-10Voice-Order - Projectresilience4j2024-02..2024-04Voice-Order - ProjectJackson2017-05..2020-12Voice-Order - Project, Underwriting, REHA.CompleteLog4j + SLF4J2023-08..now()Voice-Order - ProjectJava 82019..2021REHA.CompleteJava 62016..2019REHA.CompletemacOS2021-06..2022-10Underwritingsparx2021-06..2022-10UnderwritingJOOQ2021-06..2022-10UnderwritingFlyway2021-06..2022-10UnderwritingLiquibase2016-11..2020-12JDBCfrom time to timeDockerfrom time to timeApache Camel2016-11..2020-12REHA.CompleteJasper2017-05..2020-12REHA.CompleteOrbeon2017-05..2020-12REHA.CompleteSpring (Security)Calendar PlannerOracle Database2016-11..2020-12REHA.CompleteMaven2016-03..2020-12Dozer Mapper2016-11..2020-12REHA.CompleteMapStruct2018-01..2020-12REHA.CompleteApache Tomcat and Servlets2015-03..2021-01REHA.Complete, Techportalpdfbox2018-04..2020-12REHA.CompleteWicket2017-11..2021-01REHA.CompleteQuova Geo IP API2012..2014MGT - IP location toolAutoIT2012..2014.</description>
-    <pubDate>Fri, 14 Feb 2025 15:22:22 GMT</pubDate>
+    <title>d2bfdc4a-6866-46a5-9106-608d259aca75</title>
+    <link>https://ivan-kopylove.github.io/d2bfdc4a-6866-46a5-9106-608d259aca75/d2bfdc4a-6866-46a5-9106-608d259aca75</link>
+    <guid>https://ivan-kopylove.github.io/d2bfdc4a-6866-46a5-9106-608d259aca75/d2bfdc4a-6866-46a5-9106-608d259aca75</guid>
+    <description>REHA.Complete Company: Deutsche Telekom IT Solutions Project participation period: 2016-11-15 — 2020-12-31 telekom-healthcare.com/en/clinic-it/clinical-information-systems/rehabilitation-software ...</description>
+    <pubDate>Wed, 02 Apr 2025 10:56:09 GMT</pubDate>
   </item><item>
-    <title>3a6e51f8-5040-4a3b-ab18-2d9c6d850efa</title>
-    <link>https://ivan-kopylove.github.io/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa</link>
-    <guid>https://ivan-kopylove.github.io/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa/3a6e51f8-5040-4a3b-ab18-2d9c6d850efa</guid>
-    <description>Artifacts git &gt; diff and just say out loud what I’ve done Sync intervals daily weekly / sprinly (result) monthly (retrospective) quarterly (retrospective) yearly (retrospective) ...</description>
-    <pubDate>Sun, 02 Feb 2025 20:26:19 GMT</pubDate>
+    <title>aef5d262-0f43-40d3-bc6a-d1df1432f76f</title>
+    <link>https://ivan-kopylove.github.io/aef5d262-0f43-40d3-bc6a-d1df1432f76f/aef5d262-0f43-40d3-bc6a-d1df1432f76f</link>
+    <guid>https://ivan-kopylove.github.io/aef5d262-0f43-40d3-bc6a-d1df1432f76f/aef5d262-0f43-40d3-bc6a-d1df1432f76f</guid>
+    <description>… sweeten an unpleasant task with horizontal position with a game with something literally sweet Фасеты мышления Что-то вроде гвоздодёра, только в отношении мышления - удерживать ...</description>
+    <pubDate>Wed, 02 Apr 2025 10:55:54 GMT</pubDate>
   </item>
     </channel>
   </rss>
