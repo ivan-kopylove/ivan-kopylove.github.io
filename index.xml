@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪸🐚₊˚𓇼</title>
+      <title>🪸Ivan Kopylov</title>
       <link>https://ivan-kopylove.github.io</link>
-      <description>Last 10 notes on 🪸🐚₊˚𓇼</description>
+      <description>Last 10 notes on 🪸Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>b84ba651-9982-4146-a5b8-23a60738c241</title>
-    <link>https://ivan-kopylove.github.io/b84ba651-9982-4146-a5b8-23a60738c241/b84ba651-9982-4146-a5b8-23a60738c241</link>
-    <guid>https://ivan-kopylove.github.io/b84ba651-9982-4146-a5b8-23a60738c241/b84ba651-9982-4146-a5b8-23a60738c241</guid>
-    <description>...</description>
-    <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
+    <title>DFS first</title>
+    <link>https://ivan-kopylove.github.io/6c096047-116c-40a0-9e96-1e20e575460b/6c096047-116c-40a0-9e96-1e20e575460b</link>
+    <guid>https://ivan-kopylove.github.io/6c096047-116c-40a0-9e96-1e20e575460b/6c096047-116c-40a0-9e96-1e20e575460b</guid>
+    <description></description>
+    <pubDate>Fri, 11 Apr 2025 10:24:11 GMT</pubDate>
   </item><item>
-    <title>8a540dab-2e31-4cdc-b9d3-273954912a79</title>
-    <link>https://ivan-kopylove.github.io/8a540dab-2e31-4cdc-b9d3-273954912a79/8a540dab-2e31-4cdc-b9d3-273954912a79</link>
-    <guid>https://ivan-kopylove.github.io/8a540dab-2e31-4cdc-b9d3-273954912a79/8a540dab-2e31-4cdc-b9d3-273954912a79</guid>
-    <description>DFS Question Why special cases of DFS traversal are called pre-, in-, post- - where and what happens before, in-between and after? .</description>
-    <pubDate>Wed, 02 Apr 2025 10:59:05 GMT</pubDate>
+    <title>44c834df-9b0c-4b21-8e96-cf29961d6fbb</title>
+    <link>https://ivan-kopylove.github.io/44c834df-9b0c-4b21-8e96-cf29961d6fbb/44c834df-9b0c-4b21-8e96-cf29961d6fbb</link>
+    <guid>https://ivan-kopylove.github.io/44c834df-9b0c-4b21-8e96-cf29961d6fbb/44c834df-9b0c-4b21-8e96-cf29961d6fbb</guid>
+    <description>When there is a system, to learn this system well, it is useful to exercise particular cases / scenarios / paths, without trying to remember isolated pieces from that system without prarice (multiplicaion table, grammar rules).</description>
+    <pubDate>Fri, 11 Apr 2025 10:16:38 GMT</pubDate>
   </item><item>
-    <title>370c61e1-1396-46fd-8747-de60670f7c73</title>
-    <link>https://ivan-kopylove.github.io/370c61e1-1396-46fd-8747-de60670f7c73/370c61e1-1396-46fd-8747-de60670f7c73</link>
-    <guid>https://ivan-kopylove.github.io/370c61e1-1396-46fd-8747-de60670f7c73/370c61e1-1396-46fd-8747-de60670f7c73</guid>
-    <description>...</description>
-    <pubDate>Wed, 02 Apr 2025 10:58:32 GMT</pubDate>
+    <title>2f88c2a1-6028-42dd-b19a-f1a9945263d2</title>
+    <link>https://ivan-kopylove.github.io/2f88c2a1-6028-42dd-b19a-f1a9945263d2/2f88c2a1-6028-42dd-b19a-f1a9945263d2</link>
+    <guid>https://ivan-kopylove.github.io/2f88c2a1-6028-42dd-b19a-f1a9945263d2/2f88c2a1-6028-42dd-b19a-f1a9945263d2</guid>
+    <description>Try to express the output visually using a copy-paste-and-run-ready diagram syntax (whatever suits best - plantuml diagram / mermaid diagram / ascii / ANSI art or analog service where I can just copy-paste into an online service and check the rendered result).</description>
+    <pubDate>Fri, 11 Apr 2025 10:16:35 GMT</pubDate>
   </item><item>
-    <title>e02e5c3e-91eb-43f4-b376-c275f4b054a7</title>
-    <link>https://ivan-kopylove.github.io/e02e5c3e-91eb-43f4-b376-c275f4b054a7/e02e5c3e-91eb-43f4-b376-c275f4b054a7</link>
-    <guid>https://ivan-kopylove.github.io/e02e5c3e-91eb-43f4-b376-c275f4b054a7/e02e5c3e-91eb-43f4-b376-c275f4b054a7</guid>
-    <description>Incubate Бывает что нужно инкубировать - накапливать чтобы сделать в один батч чтобы реже переделывать. Каждая задача триггерит в youtrack триггерит тяжеловесный процесс который требует ручной работы На больших данных миграция бывает тяжеловесной в силу разных причин (например, backfilling), в случае с X это особенно ощутимо согласование модели данных проход по процессу техническая особенность X пишет данные последовательно - желательно реже обновлять поля, потому что под капотом тяжелые операции на больших данных - реиндексация Кумулятивный рефакторинг - подкопил побольше чтобы изменение достаточно повзрослело, чтобы не X слишком часто Заранее не продумаешь и рано или позжно всё равно снова перекладывать классы.</description>
-    <pubDate>Wed, 02 Apr 2025 10:58:06 GMT</pubDate>
+    <title>kotlin</title>
+    <link>https://ivan-kopylove.github.io/8eb632b2-9bba-457c-ab35-cbb35b5a2357/8eb632b2-9bba-457c-ab35-cbb35b5a2357</link>
+    <guid>https://ivan-kopylove.github.io/8eb632b2-9bba-457c-ab35-cbb35b5a2357/8eb632b2-9bba-457c-ab35-cbb35b5a2357</guid>
+    <description>➖➖➖🔥➖🔥 ➖➖➖🟥➖🟥 ➖➖➖🟦➖🟦 ➖➖🟧🟥🟧🟥🟧 ➖🟧🟧🟦🟧🟦🟧🟧 🟪🟧🟧🟧🟧🟧🟧🟧🟪 🟨🟪🟧🟧🟧🟧🟧🟪🟨 🟨🟨🟪🟪🟪🟪🟪🟨🟨 🟨🟨🟨🟨🟨🟨🟨🟨🟨 🟪🟨🟨🟨🟨🟨🟨🟨🟪 ➖🟪🟨🟨🟨🟨🟨🟪 ➖➖🟪🟪🟪🟪🟪 kotlin is designed to bring the best safety features by default: immutable collections val variables are final by defaul...</description>
+    <pubDate>Fri, 11 Apr 2025 10:15:27 GMT</pubDate>
   </item><item>
-    <title>e537a70d-524b-45d1-b68f-a1803b8391f1</title>
-    <link>https://ivan-kopylove.github.io/e537a70d-524b-45d1-b68f-a1803b8391f1/e537a70d-524b-45d1-b68f-a1803b8391f1</link>
-    <guid>https://ivan-kopylove.github.io/e537a70d-524b-45d1-b68f-a1803b8391f1/e537a70d-524b-45d1-b68f-a1803b8391f1</guid>
-    <description>Team Planner A project at Java EE course Stack: Java, Tomcat github.com/torgovtsev/SpaceT-Calendar.</description>
-    <pubDate>Wed, 02 Apr 2025 10:57:50 GMT</pubDate>
+    <title>Estimated</title>
+    <link>https://ivan-kopylove.github.io/a41070b8-488d-4aa5-8932-07cd95a21f63/a41070b8-488d-4aa5-8932-07cd95a21f63</link>
+    <guid>https://ivan-kopylove.github.io/a41070b8-488d-4aa5-8932-07cd95a21f63/a41070b8-488d-4aa5-8932-07cd95a21f63</guid>
+    <description>Just do ranging shots. Practice makes perfect.</description>
+    <pubDate>Wed, 09 Apr 2025 16:58:59 GMT</pubDate>
   </item><item>
-    <title>e2688db7-3b0f-4255-883c-fe46bb24d385</title>
-    <link>https://ivan-kopylove.github.io/e2688db7-3b0f-4255-883c-fe46bb24d385/e2688db7-3b0f-4255-883c-fe46bb24d385</link>
-    <guid>https://ivan-kopylove.github.io/e2688db7-3b0f-4255-883c-fe46bb24d385/e2688db7-3b0f-4255-883c-fe46bb24d385</guid>
-    <description>VK 2010-04-26 — 2015-08-01 Full time Senior Investigating Department Specialist Activities: MGT - IP location tool Malware reporter bot Investigated all kinds of virtual crimes: ...</description>
-    <pubDate>Wed, 02 Apr 2025 10:56:55 GMT</pubDate>
+    <title>Привычка стреляет в ногу</title>
+    <link>https://ivan-kopylove.github.io/4d29fc0e-0d89-4ab7-9b21-3784e681f542/4d29fc0e-0d89-4ab7-9b21-3784e681f542</link>
+    <guid>https://ivan-kopylove.github.io/4d29fc0e-0d89-4ab7-9b21-3784e681f542/4d29fc0e-0d89-4ab7-9b21-3784e681f542</guid>
+    <description> был дефицитстал профицитпривычка осталасьСССР; мало инфы; смакуеминтернет; полно книгзакапываемся; в мусоре трудно найти главноелимитированный трафик;безлимит; интернет - помойкабэкапим весь интернетвойна; голод; до индустриальной революциимирное время; еды хватаетпереедание и полнота.</description>
+    <pubDate>Wed, 09 Apr 2025 16:57:02 GMT</pubDate>
   </item><item>
-    <title>ce628b49-c2de-427d-95be-9c74978cecfe</title>
-    <link>https://ivan-kopylove.github.io/ce628b49-c2de-427d-95be-9c74978cecfe/ce628b49-c2de-427d-95be-9c74978cecfe</link>
-    <guid>https://ivan-kopylove.github.io/ce628b49-c2de-427d-95be-9c74978cecfe/ce628b49-c2de-427d-95be-9c74978cecfe</guid>
-    <description>… what are the factors to consider a technology? what is the most important principle I read in a Dasgupta’s book when I am picking a solution (technology / algo)? what is army-related ...</description>
-    <pubDate>Wed, 02 Apr 2025 10:56:48 GMT</pubDate>
+    <title>Spine of dinosaur</title>
+    <link>https://ivan-kopylove.github.io/8da9750a-1f9d-42ff-b1ea-16818a110f28/8da9750a-1f9d-42ff-b1ea-16818a110f28</link>
+    <guid>https://ivan-kopylove.github.io/8da9750a-1f9d-42ff-b1ea-16818a110f28/8da9750a-1f9d-42ff-b1ea-16818a110f28</guid>
+    <description>Спинной мозг динозавра Функции которые вызываются из раза в раз спускаются в обобщённый механизм (ближе к ядру или в ядро).</description>
+    <pubDate>Wed, 09 Apr 2025 16:56:45 GMT</pubDate>
   </item><item>
-    <title>e5c726fc-7091-4f66-8c18-c0edf85aa7de</title>
-    <link>https://ivan-kopylove.github.io/e5c726fc-7091-4f66-8c18-c0edf85aa7de/e5c726fc-7091-4f66-8c18-c0edf85aa7de</link>
-    <guid>https://ivan-kopylove.github.io/e5c726fc-7091-4f66-8c18-c0edf85aa7de/e5c726fc-7091-4f66-8c18-c0edf85aa7de</guid>
-    <description>PoC / bare minimum Идея прототипной или стартап-разработки в том чтобы не поддерживать системную целостностьsystematic-approach обработать наиболее частые сценарии и запретить ...</description>
-    <pubDate>Wed, 02 Apr 2025 10:56:30 GMT</pubDate>
+    <title>Java is engine</title>
+    <link>https://ivan-kopylove.github.io/2aa53751-6190-46ae-9de7-61a9374b918a/2aa53751-6190-46ae-9de7-61a9374b918a</link>
+    <guid>https://ivan-kopylove.github.io/2aa53751-6190-46ae-9de7-61a9374b918a/2aa53751-6190-46ae-9de7-61a9374b918a</guid>
+    <description>Java is also an engine (like a game engine).</description>
+    <pubDate>Wed, 09 Apr 2025 16:56:04 GMT</pubDate>
   </item><item>
-    <title>d2bfdc4a-6866-46a5-9106-608d259aca75</title>
-    <link>https://ivan-kopylove.github.io/d2bfdc4a-6866-46a5-9106-608d259aca75/d2bfdc4a-6866-46a5-9106-608d259aca75</link>
-    <guid>https://ivan-kopylove.github.io/d2bfdc4a-6866-46a5-9106-608d259aca75/d2bfdc4a-6866-46a5-9106-608d259aca75</guid>
-    <description>REHA.Complete Company: Deutsche Telekom IT Solutions Project participation period: 2016-11-15 — 2020-12-31 telekom-healthcare.com/en/clinic-it/clinical-information-systems/rehabilitation-software ...</description>
-    <pubDate>Wed, 02 Apr 2025 10:56:09 GMT</pubDate>
+    <title>Player plays tape</title>
+    <link>https://ivan-kopylove.github.io/b9796d93-0045-4c4d-90bb-78c0a07e6c5a/b9796d93-0045-4c4d-90bb-78c0a07e6c5a</link>
+    <guid>https://ivan-kopylove.github.io/b9796d93-0045-4c4d-90bb-78c0a07e6c5a/b9796d93-0045-4c4d-90bb-78c0a07e6c5a</guid>
+    <description>Player plays tape playertapeenginefuel?macrosoperating systemapplicationoperating system~/ or %USERPROFILE%dockerattached volume databrowserJavaScripttext editorcodepage symbolsnotepad.exetextvideo playervideo fileapplicationpluginJVMbytecode.NET runtimeCIL codec is a marshalling / demarshalling wit...</description>
+    <pubDate>Wed, 09 Apr 2025 16:55:59 GMT</pubDate>
   </item><item>
-    <title>aef5d262-0f43-40d3-bc6a-d1df1432f76f</title>
-    <link>https://ivan-kopylove.github.io/aef5d262-0f43-40d3-bc6a-d1df1432f76f/aef5d262-0f43-40d3-bc6a-d1df1432f76f</link>
-    <guid>https://ivan-kopylove.github.io/aef5d262-0f43-40d3-bc6a-d1df1432f76f/aef5d262-0f43-40d3-bc6a-d1df1432f76f</guid>
-    <description>… sweeten an unpleasant task with horizontal position with a game with something literally sweet Фасеты мышления Что-то вроде гвоздодёра, только в отношении мышления - удерживать ...</description>
-    <pubDate>Wed, 02 Apr 2025 10:55:54 GMT</pubDate>
+    <title>Traffic of minor challenges</title>
+    <link>https://ivan-kopylove.github.io/0689d6b7-086b-411f-af78-241322485d0b/0689d6b7-086b-411f-af78-241322485d0b</link>
+    <guid>https://ivan-kopylove.github.io/0689d6b7-086b-411f-af78-241322485d0b/0689d6b7-086b-411f-af78-241322485d0b</guid>
+    <description> Question Why is that better to have a traffic of minor challenges for any system (biological, government, society)? How this related to Broken windows theory? The system (government, biological organism) should always have traffic of minor challenges not to become sterile and thus naive about it’s ...</description>
+    <pubDate>Wed, 09 Apr 2025 16:53:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
