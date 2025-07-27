@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Ivan Kopylov</title>
+      <link>https://ivan-kopylove.github.io</link>
+      <description>Last 10 notes on Ivan Kopylov</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>kotlin</title>
+    <link>https://ivan-kopylove.github.io/heap/f222</link>
+    <guid>https://ivan-kopylove.github.io/heap/f222</guid>
+    <description><![CDATA[ why Kotlin doesn’t have checked exceptions? how to call stream in kotlin? what is idiomatic way to check equality in kotiln? no checked exceptions because of what? List.of() - what is kotlin version? classes are what by default - I have to put an extra operator to open it .first() / .last() - by def... ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:40:24 GMT</pubDate>
+  </item><item>
+    <title>development</title>
+    <link>https://ivan-kopylove.github.io/heap/0b25</link>
+    <guid>https://ivan-kopylove.github.io/heap/0b25</guid>
+    <description><![CDATA[  testingengineeringleetcodeconcurrencycomputer sciencekotlinjavadatabaseDSA system design DSA firmware decomposition Grafana How regretting is related to value of information? What is the difference between a steaming system and broker? What is the difference between JOOQ vs Hibernate? What structur... ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:39:37 GMT</pubDate>
+  </item><item>
+    <title>Support specialist</title>
+    <link>https://ivan-kopylove.github.io/CV/72ae</link>
+    <guid>https://ivan-kopylove.github.io/CV/72ae</guid>
+    <description><![CDATA[ company: vk Investigated the virtual crimes: fraud, hacked accounts, phishing, social engineering, malware. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:36:09 GMT</pubDate>
+  </item><item>
+    <title>English 2011</title>
+    <link>https://ivan-kopylove.github.io/CV/a8e1</link>
+    <guid>https://ivan-kopylove.github.io/CV/a8e1</guid>
+    <description><![CDATA[ English 2011 title:: Offline English pre-intermediate group course description:: 160 academic hours of pre-intermediate International House Voronezh-Linguist organization:: International House Linguist on behalf of vk start:: 2011-12-01 end:: 2012-06-01 teacher:: Venedina N. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:35:03 GMT</pubDate>
+  </item><item>
+    <title>English 2012..2015</title>
+    <link>https://ivan-kopylove.github.io/CV/a9ce</link>
+    <guid>https://ivan-kopylove.github.io/CV/a9ce</guid>
+    <description><![CDATA[ organization:: vk start:: 2012-01-01 end:: 2015-01-01 title:: Offline intermediate group course frequency:: twice a week description:: Offline intermediate group course. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:34:33 GMT</pubDate>
+  </item><item>
+    <title>English 2018</title>
+    <link>https://ivan-kopylove.github.io/CV/d9e3</link>
+    <guid>https://ivan-kopylove.github.io/CV/d9e3</guid>
+    <description><![CDATA[ English 2018 title:: Offline upper intermediate group English course description:: Completed 160 academic hours of Upper Intermediate English organization:: Globus-Internationa at Deutsche Telekom IT Solutions start:: 2018-03-01 end:: 2018-12-28 teacher:: Svetlana L. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:31:03 GMT</pubDate>
+  </item><item>
+    <title>English 2019</title>
+    <link>https://ivan-kopylove.github.io/CV/7511</link>
+    <guid>https://ivan-kopylove.github.io/CV/7511</guid>
+    <description><![CDATA[ English 2019 title:: Offline upper intermediate English group course description:: Completed 160 academic hours of Upper Intermediate English. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:30:47 GMT</pubDate>
+  </item><item>
+    <title>Speech recognition intensive 2020</title>
+    <link>https://ivan-kopylove.github.io/CV/6e78</link>
+    <guid>https://ivan-kopylove.github.io/CV/6e78</guid>
+    <description><![CDATA[ Speech recognition intensive 2020 organization:: Globus-International at Deutsche Telekom IT Solutions start:: 2020-01-10 end:: 2020-03-15 title:: Speech recognition course teacher:: Svetlana L. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:30:30 GMT</pubDate>
+  </item><item>
+    <title>English 2020 1:1</title>
+    <link>https://ivan-kopylove.github.io/CV/1a32</link>
+    <guid>https://ivan-kopylove.github.io/CV/1a32</guid>
+    <description><![CDATA[ English 2020 1:1 title:: one-to-one English practice description:: 9 one-to-one sessions with a non-Russian teacher on Learnlight language platform organization:: Deutsche Telekom IT Solutions platform start:: 2020-12-01 end:: 2021-02-12 frequency:: once a week, 30 minutes per session . ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:30:07 GMT</pubDate>
+  </item><item>
+    <title>REHA.Complete</title>
+    <link>https://ivan-kopylove.github.io/CV/a060</link>
+    <guid>https://ivan-kopylove.github.io/CV/a060</guid>
+    <description><![CDATA[ Role: Senior backend Java developer A CRM printing functionality developer within a 800 database table- 25-people team and 8-years legacy monolith project. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 14:28:57 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
