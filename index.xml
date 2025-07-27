@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Digital garden 🌱</title>
-    <link>https://ivan-kopylove.github.io/</link>
-    <guid>https://ivan-kopylove.github.io/</guid>
-    <description><![CDATA[ Hey everyone, This is my digital garden HR? my CV is here → CV development. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>bus and CAPEX</title>
+    <link>https://ivan-kopylove.github.io/heap/17c5</link>
+    <guid>https://ivan-kopylove.github.io/heap/17c5</guid>
+    <description><![CDATA[ Why bus has clock? How does MTU relates to capex and payload? Хаб (не роутер) в сети для удобства можно рассматривать как шину, также как шина в factorio и вообще всё что является транспортом - чаще всего шина. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:54:51 GMT</pubDate>
   </item><item>
-    <title>English 2017</title>
-    <link>https://ivan-kopylove.github.io/CV/0443</link>
-    <guid>https://ivan-kopylove.github.io/CV/0443</guid>
-    <description><![CDATA[ English 2017 organization:: Globus-International on behalf of Deutsche Telekom IT Solutions start:: 2017-02-27 end:: 2017-12-11 title:: Offline upper intermediate English group course teacher:: Svetlana L. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>number classification</title>
+    <link>https://ivan-kopylove.github.io/heap/0076</link>
+    <guid>https://ivan-kopylove.github.io/heap/0076</guid>
+    <description><![CDATA[ ya.ru/images/search%20classification. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:25:00 GMT</pubDate>
   </item><item>
-    <title>English 2023-2024</title>
-    <link>https://ivan-kopylove.github.io/CV/0f1e</link>
-    <guid>https://ivan-kopylove.github.io/CV/0f1e</guid>
-    <description><![CDATA[ organization:: Maxim Technology Education title:: Remote corporate intermediate group English start:: 2023-09-19 end:: 2024-03-28 description:: Remote intermediate English. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>Grafana</title>
+    <link>https://ivan-kopylove.github.io/heap/434b</link>
+    <guid>https://ivan-kopylove.github.io/heap/434b</guid>
+    <description><![CDATA[ Когда этап пройден, счетчик что делает? Does Grafana collect all the data in advance and then I apply formula and get a result OR when I apply formula, Grafana starts collecting data according this formula? has only 3 metrics - counter, gauge and timer (?) - by combination of what it this gives a ca... ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:16:34 GMT</pubDate>
   </item><item>
-    <title>Underwriting</title>
-    <link>https://ivan-kopylove.github.io/CV/192c</link>
-    <guid>https://ivan-kopylove.github.io/CV/192c</guid>
-    <description><![CDATA[ A solo maintainer of a CRM backend microservice within a credit department. Implemented features of manual stage of credit department journey. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>decomposition</title>
+    <link>https://ivan-kopylove.github.io/heap/041c</link>
+    <guid>https://ivan-kopylove.github.io/heap/041c</guid>
+    <description><![CDATA[ После декомпозиции закомпозировал некорректно, а именно - поднял до слишком высокого уровня видимости константу X, которая используется только как fallback-значение. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:16:23 GMT</pubDate>
   </item><item>
-    <title>English 2020 1:1</title>
-    <link>https://ivan-kopylove.github.io/CV/1a32</link>
-    <guid>https://ivan-kopylove.github.io/CV/1a32</guid>
-    <description><![CDATA[ English 2020 1:1 title:: one-to-one English practice description:: 9 one-to-one sessions with a non-Russian teacher on Learnlight language platform organization:: Deutsche Telekom IT Solutions platform start:: 2020-12-01 end:: 2021-02-12 frequency:: once a week, 30 minutes per session . ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>firmware</title>
+    <link>https://ivan-kopylove.github.io/heap/b203</link>
+    <guid>https://ivan-kopylove.github.io/heap/b203</guid>
+    <description><![CDATA[ Что такое прошивка в роутере? Если убрать прошивку, то что? Is BIOS - firmware? What is the difference between firmware and OS? Добиться выполнения нужной логики можно добиться чисто спаяв транзисторы. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:16:11 GMT</pubDate>
   </item><item>
-    <title>English phonetic course 2018</title>
-    <link>https://ivan-kopylove.github.io/CV/22eb</link>
-    <guid>https://ivan-kopylove.github.io/CV/22eb</guid>
-    <description><![CDATA[ English phonetic course 2018 title:: B2 Offline group phonetic course description:: Completed 9 hours of phonetic course by Globus-International organization:: Globus-International on behalf of Deutsche Telekom IT Solutions start:: 2018-01-16 end:: 2018-02-26 teacher:: Svetlana L. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>database</title>
+    <link>https://ivan-kopylove.github.io/heap/e3e8</link>
+    <guid>https://ivan-kopylove.github.io/heap/e3e8</guid>
+    <description><![CDATA[ JOIN is h___ UNION is v____ Why index is stored separately? Materialized view - is something like den______; is not to calculate to save what? Why HAVING existed instead of WHERE provided interpreter could infer the meaning that predicat is from GROUP BY? customParams - это специальная колонка-конте... ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:15:56 GMT</pubDate>
   </item><item>
-    <title>Obsidian</title>
-    <link>https://ivan-kopylove.github.io/CV/3b82</link>
-    <guid>https://ivan-kopylove.github.io/CV/3b82</guid>
-    <description><![CDATA[ Customization Theme: ink Templater .obsidian to mobile just go through all the settings toolbar &gt; drop all and pick up required command palette quick switcher fold all headings toggle live preview outline bigger font Image toolkit there is a hotkey customization to switch the images with the arro... ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>java</title>
+    <link>https://ivan-kopylove.github.io/heap/cb1b</link>
+    <guid>https://ivan-kopylove.github.io/heap/cb1b</guid>
+    <description><![CDATA[ what is java approach to small number of elements in different places? What interfaces enable syntax sugar in Java? What is something related to hashcode / equals? Imagine myself being at an interview when Dmitry G___ asked me about something related to hashcode and equality? When the majority of el... ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:15:41 GMT</pubDate>
   </item><item>
-    <title>Voice Order</title>
-    <link>https://ivan-kopylove.github.io/CV/4bd6</link>
-    <guid>https://ivan-kopylove.github.io/CV/4bd6</guid>
-    <description><![CDATA[ A solo maintainer of a telephony backend microservice within a taxi service. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>Data structures</title>
+    <link>https://ivan-kopylove.github.io/heap/3d60</link>
+    <guid>https://ivan-kopylove.github.io/heap/3d60</guid>
+    <description><![CDATA[ Graph. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:15:11 GMT</pubDate>
   </item><item>
-    <title>Saint Petersburg State University for Water Communications</title>
-    <link>https://ivan-kopylove.github.io/CV/4db7</link>
-    <guid>https://ivan-kopylove.github.io/CV/4db7</guid>
-    <description><![CDATA[ Saint Petersburg State University for Water Communications Saint Petersburg State University for Water Communications 2007-01 - 2012-06 Major: Information Systems Qualification: Engineer After years of hard work and dedication, I successfully graduated as an Information Systems Engineer. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>Graph</title>
+    <link>https://ivan-kopylove.github.io/heap/0ae3</link>
+    <guid>https://ivan-kopylove.github.io/heap/0ae3</guid>
+    <description><![CDATA[ Почему в Графском заповеднике много деревьев? Info Потому что дерево - частный случай графа What is the difference between: Graph red-black tree B-Tree binary tree balanced tree . ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:14:39 GMT</pubDate>
   </item><item>
-    <title>MGT - IP location tool</title>
-    <link>https://ivan-kopylove.github.io/CV/4f35</link>
-    <guid>https://ivan-kopylove.github.io/CV/4f35</guid>
-    <description><![CDATA[  Company: vk 2013-01 — 2015-07 Implemented a windows WPF IP location tool based on Quova geo API. The application shows multiple IP’s geo information. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 14:55:02 GMT</pubDate>
+    <title>DSA</title>
+    <link>https://ivan-kopylove.github.io/heap/aae7</link>
+    <guid>https://ivan-kopylove.github.io/heap/aae7</guid>
+    <description><![CDATA[ leetcode Data structures Умная мыслЯ приходит опослЯ. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:13:54 GMT</pubDate>
   </item>
     </channel>
   </rss>
