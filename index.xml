@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>56. Merge Intervals</title>
-    <link>https://ivan-kopylove.github.io/heap/13b3</link>
-    <guid>https://ivan-kopylove.github.io/heap/13b3</guid>
-    <description><![CDATA[ www.google.com/search+56 Use fingers java pseudocode with questions: class Solution { public int[][] merge(int[][] intervals) { //sort by what? int[] current = ...which one? for(int i = 1; i &lt; intervals.length; i++) // why not from 0? { if(intervals[i][X] &lt;= current[Y]) // what is X and Y? { c... ]]></description>
-    <pubDate>Wed, 30 Jul 2025 09:20:10 GMT</pubDate>
+    <title>intervals</title>
+    <link>https://ivan-kopylove.github.io/heap/8dff</link>
+    <guid>https://ivan-kopylove.github.io/heap/8dff</guid>
+    <description><![CDATA[  56. Merge Intervals 986. Interval List Intersections . ]]></description>
+    <pubDate>Wed, 30 Jul 2025 15:33:45 GMT</pubDate>
   </item><item>
-    <title>20. Valid Parentheses</title>
-    <link>https://ivan-kopylove.github.io/heap/b282</link>
-    <guid>https://ivan-kopylove.github.io/heap/b282</guid>
+    <title>986. Interval List Intersections</title>
+    <link>https://ivan-kopylove.github.io/heap/b424</link>
+    <guid>https://ivan-kopylove.github.io/heap/b424</guid>
+    <description><![CDATA[ www.google.com/search+986 Brainstorming artifacts excalidraw.com/#json=OJuSzSSu_qxZGPh8eFEtM,5ToNbhJD5phmVN4yUTPLfA . ]]></description>
+    <pubDate>Wed, 30 Jul 2025 15:33:22 GMT</pubDate>
+  </item><item>
+    <title>b424 2025-07-30 18.31.26.excalidraw</title>
+    <link>https://ivan-kopylove.github.io/heap/b424-2025-07-30-18.31.26.excalidraw</link>
+    <guid>https://ivan-kopylove.github.io/heap/b424-2025-07-30-18.31.26.excalidraw</guid>
+    <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
+    <pubDate>Wed, 30 Jul 2025 15:31:37 GMT</pubDate>
+  </item><item>
+    <title>96. Unique Binary Search Trees</title>
+    <link>https://ivan-kopylove.github.io/heap/f7d1</link>
+    <guid>https://ivan-kopylove.github.io/heap/f7d1</guid>
+    <description><![CDATA[ All the possible permutations? pre-order, in-order, post-order? Или можно просто какую-то комбинаторную формулу применить?. ]]></description>
+    <pubDate>Wed, 30 Jul 2025 11:44:41 GMT</pubDate>
+  </item><item>
+    <title>70. Climbing Stairs</title>
+    <link>https://ivan-kopylove.github.io/heap/f4c2</link>
+    <guid>https://ivan-kopylove.github.io/heap/f4c2</guid>
+    <description><![CDATA[ What is brother of recursion? What if there were no these siblings at all? The whole point is sumulate steps and make up an interruption condition. ]]></description>
+    <pubDate>Wed, 30 Jul 2025 11:41:56 GMT</pubDate>
+  </item><item>
+    <title>746. Min Cost Climbing Stairs</title>
+    <link>https://ivan-kopylove.github.io/heap/c606</link>
+    <guid>https://ivan-kopylove.github.io/heap/c606</guid>
+    <description><![CDATA[ look behind Transclude of c606-2025-07-28-15.11.14.excalidraw. ]]></description>
+    <pubDate>Wed, 30 Jul 2025 11:41:15 GMT</pubDate>
+  </item><item>
+    <title>c606 2025-07-28 15.11.14.excalidraw</title>
+    <link>https://ivan-kopylove.github.io/heap/c606-2025-07-28-15.11.14.excalidraw</link>
+    <guid>https://ivan-kopylove.github.io/heap/c606-2025-07-28-15.11.14.excalidraw</guid>
+    <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
+    <pubDate>Wed, 30 Jul 2025 11:40:58 GMT</pubDate>
+  </item><item>
+    <title>Manager</title>
+    <link>https://ivan-kopylove.github.io/heap/c2c2</link>
+    <guid>https://ivan-kopylove.github.io/heap/c2c2</guid>
+    <description><![CDATA[ A 3rd entity with higher visibility. Subordinates should go through the manager so that the system is consistent. ]]></description>
+    <pubDate>Wed, 30 Jul 2025 11:39:49 GMT</pubDate>
+  </item><item>
+    <title>MIT</title>
+    <link>https://ivan-kopylove.github.io/heap/aec2</link>
+    <guid>https://ivan-kopylove.github.io/heap/aec2</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 29 Jul 2025 12:31:30 GMT</pubDate>
+    <pubDate>Wed, 30 Jul 2025 11:39:39 GMT</pubDate>
   </item><item>
-    <title>CopyOnWriteArrayList</title>
-    <link>https://ivan-kopylove.github.io/heap/1330</link>
-    <guid>https://ivan-kopylove.github.io/heap/1330</guid>
-    <description><![CDATA[ CopyOnWriteArrayList works according what deploy principle? Where does it hide the change? fail-what? Info CopyOnWriteArrayList is like Blue-Green deployment . ]]></description>
-    <pubDate>Tue, 29 Jul 2025 10:06:10 GMT</pubDate>
-  </item><item>
-    <title>leetcode</title>
-    <link>https://ivan-kopylove.github.io/heap/a3c6</link>
-    <guid>https://ivan-kopylove.github.io/heap/a3c6</guid>
-    <description><![CDATA[ Что я вообще пытаюсь записать решая литкод? Записывание ради записывания. ]]></description>
-    <pubDate>Tue, 29 Jul 2025 10:05:36 GMT</pubDate>
-  </item><item>
-    <title>computer science</title>
-    <link>https://ivan-kopylove.github.io/heap/6570</link>
-    <guid>https://ivan-kopylove.github.io/heap/6570</guid>
-    <description><![CDATA[ DSA bus and CAPEX combinations permutations number classification O(1) доступ к ячейкам массива благодаря адресации памяти What does it mean ‘to help compiler / interpreter’?. ]]></description>
-    <pubDate>Tue, 29 Jul 2025 10:04:47 GMT</pubDate>
-  </item><item>
-    <title>Data structures</title>
-    <link>https://ivan-kopylove.github.io/heap/3d60</link>
-    <guid>https://ivan-kopylove.github.io/heap/3d60</guid>
-    <description><![CDATA[ CopyOnWriteArrayList Graph. ]]></description>
-    <pubDate>Tue, 29 Jul 2025 04:56:11 GMT</pubDate>
-  </item><item>
-    <title>bus and CAPEX</title>
-    <link>https://ivan-kopylove.github.io/heap/17c5</link>
-    <guid>https://ivan-kopylove.github.io/heap/17c5</guid>
-    <description><![CDATA[ Why bus has clock? How does MTU relates to capex and payload? Хаб (не роутер) в сети для удобства можно рассматривать как шину, также как шина в factorio и вообще всё что является транспортом - чаще всего шина. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:54:51 GMT</pubDate>
-  </item><item>
-    <title>Grafana</title>
-    <link>https://ivan-kopylove.github.io/heap/434b</link>
-    <guid>https://ivan-kopylove.github.io/heap/434b</guid>
-    <description><![CDATA[ Когда этап пройден, счетчик что делает? Does Grafana collect all the data in advance and then I apply formula and get a result OR when I apply formula, Grafana starts collecting data according this formula? has only 3 metrics - counter, gauge and timer (?) - by combination of what it this gives a ca... ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:32:16 GMT</pubDate>
-  </item><item>
-    <title>Graph</title>
-    <link>https://ivan-kopylove.github.io/heap/0ae3</link>
-    <guid>https://ivan-kopylove.github.io/heap/0ae3</guid>
-    <description><![CDATA[ Почему в Графском заповеднике много деревьев? Info Потому что дерево - частный случай графа What is the difference between: Graph red-black tree B-Tree binary tree balanced tree . ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:32:16 GMT</pubDate>
-  </item><item>
-    <title>number classification</title>
-    <link>https://ivan-kopylove.github.io/heap/0076</link>
-    <guid>https://ivan-kopylove.github.io/heap/0076</guid>
-    <description><![CDATA[ ya.ru/images/search%20classification. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:25:00 GMT</pubDate>
+    <title>Erik Demaine</title>
+    <link>https://ivan-kopylove.github.io/heap/8142</link>
+    <guid>https://ivan-kopylove.github.io/heap/8142</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 30 Jul 2025 11:39:29 GMT</pubDate>
   </item>
     </channel>
   </rss>
