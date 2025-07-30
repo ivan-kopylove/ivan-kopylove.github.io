@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>56. Merge Intervals</title>
+    <link>https://ivan-kopylove.github.io/heap/13b3</link>
+    <guid>https://ivan-kopylove.github.io/heap/13b3</guid>
+    <description><![CDATA[ www.google.com/search+56 Use fingers java pseudocode with questions: class Solution { public int[][] merge(int[][] intervals) { //sort by what? int[] current = ...which one? for(int i = 1; i &lt; intervals.length; i++) // why not from 0? { if(intervals[i][X] &lt;= current[Y]) // what is X and Y? { c... ]]></description>
+    <pubDate>Wed, 30 Jul 2025 09:20:10 GMT</pubDate>
+  </item><item>
+    <title>20. Valid Parentheses</title>
+    <link>https://ivan-kopylove.github.io/heap/b282</link>
+    <guid>https://ivan-kopylove.github.io/heap/b282</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 29 Jul 2025 12:31:30 GMT</pubDate>
+  </item><item>
+    <title>CopyOnWriteArrayList</title>
+    <link>https://ivan-kopylove.github.io/heap/1330</link>
+    <guid>https://ivan-kopylove.github.io/heap/1330</guid>
+    <description><![CDATA[ CopyOnWriteArrayList works according what deploy principle? Where does it hide the change? fail-what? Info CopyOnWriteArrayList is like Blue-Green deployment . ]]></description>
+    <pubDate>Tue, 29 Jul 2025 10:06:10 GMT</pubDate>
+  </item><item>
+    <title>leetcode</title>
+    <link>https://ivan-kopylove.github.io/heap/a3c6</link>
+    <guid>https://ivan-kopylove.github.io/heap/a3c6</guid>
+    <description><![CDATA[ Что я вообще пытаюсь записать решая литкод? Записывание ради записывания. ]]></description>
+    <pubDate>Tue, 29 Jul 2025 10:05:36 GMT</pubDate>
+  </item><item>
+    <title>computer science</title>
+    <link>https://ivan-kopylove.github.io/heap/6570</link>
+    <guid>https://ivan-kopylove.github.io/heap/6570</guid>
+    <description><![CDATA[ DSA bus and CAPEX combinations permutations number classification O(1) доступ к ячейкам массива благодаря адресации памяти What does it mean ‘to help compiler / interpreter’?. ]]></description>
+    <pubDate>Tue, 29 Jul 2025 10:04:47 GMT</pubDate>
+  </item><item>
+    <title>Data structures</title>
+    <link>https://ivan-kopylove.github.io/heap/3d60</link>
+    <guid>https://ivan-kopylove.github.io/heap/3d60</guid>
+    <description><![CDATA[ CopyOnWriteArrayList Graph. ]]></description>
+    <pubDate>Tue, 29 Jul 2025 04:56:11 GMT</pubDate>
+  </item><item>
     <title>bus and CAPEX</title>
     <link>https://ivan-kopylove.github.io/heap/17c5</link>
     <guid>https://ivan-kopylove.github.io/heap/17c5</guid>
     <description><![CDATA[ Why bus has clock? How does MTU relates to capex and payload? Хаб (не роутер) в сети для удобства можно рассматривать как шину, также как шина в factorio и вообще всё что является транспортом - чаще всего шина. ]]></description>
     <pubDate>Sun, 27 Jul 2025 15:54:51 GMT</pubDate>
   </item><item>
-    <title>number classification</title>
-    <link>https://ivan-kopylove.github.io/heap/0076</link>
-    <guid>https://ivan-kopylove.github.io/heap/0076</guid>
-    <description><![CDATA[ ya.ru/images/search%20classification. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:25:00 GMT</pubDate>
-  </item><item>
     <title>Grafana</title>
     <link>https://ivan-kopylove.github.io/heap/434b</link>
     <guid>https://ivan-kopylove.github.io/heap/434b</guid>
     <description><![CDATA[ Когда этап пройден, счетчик что делает? Does Grafana collect all the data in advance and then I apply formula and get a result OR when I apply formula, Grafana starts collecting data according this formula? has only 3 metrics - counter, gauge and timer (?) - by combination of what it this gives a ca... ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:16:34 GMT</pubDate>
-  </item><item>
-    <title>decomposition</title>
-    <link>https://ivan-kopylove.github.io/heap/041c</link>
-    <guid>https://ivan-kopylove.github.io/heap/041c</guid>
-    <description><![CDATA[ После декомпозиции закомпозировал некорректно, а именно - поднял до слишком высокого уровня видимости константу X, которая используется только как fallback-значение. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:16:23 GMT</pubDate>
-  </item><item>
-    <title>firmware</title>
-    <link>https://ivan-kopylove.github.io/heap/b203</link>
-    <guid>https://ivan-kopylove.github.io/heap/b203</guid>
-    <description><![CDATA[ Что такое прошивка в роутере? Если убрать прошивку, то что? Is BIOS - firmware? What is the difference between firmware and OS? Добиться выполнения нужной логики можно добиться чисто спаяв транзисторы. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:16:11 GMT</pubDate>
-  </item><item>
-    <title>database</title>
-    <link>https://ivan-kopylove.github.io/heap/e3e8</link>
-    <guid>https://ivan-kopylove.github.io/heap/e3e8</guid>
-    <description><![CDATA[ JOIN is h___ UNION is v____ Why index is stored separately? Materialized view - is something like den______; is not to calculate to save what? Why HAVING existed instead of WHERE provided interpreter could infer the meaning that predicat is from GROUP BY? customParams - это специальная колонка-конте... ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:15:56 GMT</pubDate>
-  </item><item>
-    <title>java</title>
-    <link>https://ivan-kopylove.github.io/heap/cb1b</link>
-    <guid>https://ivan-kopylove.github.io/heap/cb1b</guid>
-    <description><![CDATA[ what is java approach to small number of elements in different places? What interfaces enable syntax sugar in Java? What is something related to hashcode / equals? Imagine myself being at an interview when Dmitry G___ asked me about something related to hashcode and equality? When the majority of el... ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:15:41 GMT</pubDate>
-  </item><item>
-    <title>Data structures</title>
-    <link>https://ivan-kopylove.github.io/heap/3d60</link>
-    <guid>https://ivan-kopylove.github.io/heap/3d60</guid>
-    <description><![CDATA[ Graph. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:15:11 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 15:32:16 GMT</pubDate>
   </item><item>
     <title>Graph</title>
     <link>https://ivan-kopylove.github.io/heap/0ae3</link>
     <guid>https://ivan-kopylove.github.io/heap/0ae3</guid>
     <description><![CDATA[ Почему в Графском заповеднике много деревьев? Info Потому что дерево - частный случай графа What is the difference between: Graph red-black tree B-Tree binary tree balanced tree . ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:14:39 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 15:32:16 GMT</pubDate>
   </item><item>
-    <title>DSA</title>
-    <link>https://ivan-kopylove.github.io/heap/aae7</link>
-    <guid>https://ivan-kopylove.github.io/heap/aae7</guid>
-    <description><![CDATA[ leetcode Data structures Умная мыслЯ приходит опослЯ. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:13:54 GMT</pubDate>
+    <title>number classification</title>
+    <link>https://ivan-kopylove.github.io/heap/0076</link>
+    <guid>https://ivan-kopylove.github.io/heap/0076</guid>
+    <description><![CDATA[ ya.ru/images/search%20classification. ]]></description>
+    <pubDate>Sun, 27 Jul 2025 15:25:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
