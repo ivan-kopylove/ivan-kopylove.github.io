@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>intervals</title>
-    <link>https://ivan-kopylove.github.io/heap/8dff</link>
-    <guid>https://ivan-kopylove.github.io/heap/8dff</guid>
-    <description><![CDATA[  56. Merge Intervals 986. Interval List Intersections . ]]></description>
-    <pubDate>Wed, 30 Jul 2025 15:33:45 GMT</pubDate>
+    <title>2133. Check if Every Row and Column Contains All Numbers</title>
+    <link>https://ivan-kopylove.github.io/heap/c4b9</link>
+    <guid>https://ivan-kopylove.github.io/heap/c4b9</guid>
+    <description><![CDATA[ excalidraw.com/#json=H8P5Q-PXXoh7z9UoZ9QMW,JD-yhrXzGBaraTejJ6E37g vkvideo.ru/video-228235830_456239029 class Solution { public boolean checkValid(int[][] matrix) { for(int i = 0; i &lt; matrix.length; i++) { Set&lt;Integer&gt; uniqueChecker = new HashSet&lt;&gt;(); Set&lt;Integer&gt; columnChecker =... ]]></description>
+    <pubDate>Sat, 09 Aug 2025 14:56:03 GMT</pubDate>
   </item><item>
-    <title>986. Interval List Intersections</title>
-    <link>https://ivan-kopylove.github.io/heap/b424</link>
-    <guid>https://ivan-kopylove.github.io/heap/b424</guid>
-    <description><![CDATA[ www.google.com/search+986 Brainstorming artifacts excalidraw.com/#json=OJuSzSSu_qxZGPh8eFEtM,5ToNbhJD5phmVN4yUTPLfA . ]]></description>
-    <pubDate>Wed, 30 Jul 2025 15:33:22 GMT</pubDate>
+    <title>938. Range Sum of BST</title>
+    <link>https://ivan-kopylove.github.io/heap/5b1d</link>
+    <guid>https://ivan-kopylove.github.io/heap/5b1d</guid>
+    <description><![CDATA[ excalidraw.com/#json=KUzane7A6DU6wCzMfS32X,djRBRd-qqmBuXwF5twPgVg Question how to return result without using a shared counter? Question what order do I write the code? . ]]></description>
+    <pubDate>Sat, 09 Aug 2025 11:50:18 GMT</pubDate>
   </item><item>
-    <title>b424 2025-07-30 18.31.26.excalidraw</title>
-    <link>https://ivan-kopylove.github.io/heap/b424-2025-07-30-18.31.26.excalidraw</link>
-    <guid>https://ivan-kopylove.github.io/heap/b424-2025-07-30-18.31.26.excalidraw</guid>
-    <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
-    <pubDate>Wed, 30 Jul 2025 15:31:37 GMT</pubDate>
+    <title>lifetime learned</title>
+    <link>https://ivan-kopylove.github.io/heap/095e</link>
+    <guid>https://ivan-kopylove.github.io/heap/095e</guid>
+    <description><![CDATA[ how do I read books Questions What questions helps to understand anything? Что если убрать X Что мне сделать? Пример можно? Суть обучения в том чтобы переставать валидировать входящие и начать доверять источнику, а для этого нужно что? Somthing useful pops up in the mind when it’s time to act - what... ]]></description>
+    <pubDate>Fri, 08 Aug 2025 15:51:26 GMT</pubDate>
   </item><item>
-    <title>96. Unique Binary Search Trees</title>
-    <link>https://ivan-kopylove.github.io/heap/f7d1</link>
-    <guid>https://ivan-kopylove.github.io/heap/f7d1</guid>
-    <description><![CDATA[ All the possible permutations? pre-order, in-order, post-order? Или можно просто какую-то комбинаторную формулу применить?. ]]></description>
-    <pubDate>Wed, 30 Jul 2025 11:44:41 GMT</pubDate>
+    <title>1694. Reformat Phone Number</title>
+    <link>https://ivan-kopylove.github.io/heap/e64e</link>
+    <guid>https://ivan-kopylove.github.io/heap/e64e</guid>
+    <description><![CDATA[ excalidraw.com/#json=ZE4i1Abw_uO-TONCrcJwo,M3GWSFa0lY_xuFnUNeZUgg. ]]></description>
+    <pubDate>Fri, 08 Aug 2025 14:40:32 GMT</pubDate>
   </item><item>
-    <title>70. Climbing Stairs</title>
-    <link>https://ivan-kopylove.github.io/heap/f4c2</link>
-    <guid>https://ivan-kopylove.github.io/heap/f4c2</guid>
-    <description><![CDATA[ What is brother of recursion? What if there were no these siblings at all? The whole point is sumulate steps and make up an interruption condition. ]]></description>
-    <pubDate>Wed, 30 Jul 2025 11:41:56 GMT</pubDate>
+    <title>array</title>
+    <link>https://ivan-kopylove.github.io/heap/9f19</link>
+    <guid>https://ivan-kopylove.github.io/heap/9f19</guid>
+    <description><![CDATA[ 1437. Check If All 1’s Are at Least Length K Places Away. ]]></description>
+    <pubDate>Fri, 08 Aug 2025 14:26:31 GMT</pubDate>
   </item><item>
-    <title>746. Min Cost Climbing Stairs</title>
-    <link>https://ivan-kopylove.github.io/heap/c606</link>
-    <guid>https://ivan-kopylove.github.io/heap/c606</guid>
-    <description><![CDATA[ look behind Transclude of c606-2025-07-28-15.11.14.excalidraw. ]]></description>
-    <pubDate>Wed, 30 Jul 2025 11:41:15 GMT</pubDate>
+    <title>1437. Check If All 1&#039;s Are at Least Length K Places Away</title>
+    <link>https://ivan-kopylove.github.io/heap/64e9</link>
+    <guid>https://ivan-kopylove.github.io/heap/64e9</guid>
+    <description><![CDATA[ excalidraw.com/#json=6GjfNWHQls_cEisfYJwuU,sRxc1jnGzNXYvLspbaun1g. ]]></description>
+    <pubDate>Fri, 08 Aug 2025 14:26:17 GMT</pubDate>
   </item><item>
-    <title>c606 2025-07-28 15.11.14.excalidraw</title>
-    <link>https://ivan-kopylove.github.io/heap/c606-2025-07-28-15.11.14.excalidraw</link>
-    <guid>https://ivan-kopylove.github.io/heap/c606-2025-07-28-15.11.14.excalidraw</guid>
-    <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
-    <pubDate>Wed, 30 Jul 2025 11:40:58 GMT</pubDate>
+    <title>math</title>
+    <link>https://ivan-kopylove.github.io/heap/de5a</link>
+    <guid>https://ivan-kopylove.github.io/heap/de5a</guid>
+    <description><![CDATA[  3622. Check Divisibility by Digit Sum and Product 1290. Convert Binary Number in a Linked List to Integer . ]]></description>
+    <pubDate>Fri, 08 Aug 2025 14:11:10 GMT</pubDate>
   </item><item>
-    <title>Manager</title>
-    <link>https://ivan-kopylove.github.io/heap/c2c2</link>
-    <guid>https://ivan-kopylove.github.io/heap/c2c2</guid>
-    <description><![CDATA[ A 3rd entity with higher visibility. Subordinates should go through the manager so that the system is consistent. ]]></description>
-    <pubDate>Wed, 30 Jul 2025 11:39:49 GMT</pubDate>
+    <title>1290. Convert Binary Number in a Linked List to Integer</title>
+    <link>https://ivan-kopylove.github.io/heap/10fa</link>
+    <guid>https://ivan-kopylove.github.io/heap/10fa</guid>
+    <description><![CDATA[ excalidraw.com/#json=yxEFwhsjo8ZFzAazgmy3k,dNZgG7abA8vUEe3dotD9PA. ]]></description>
+    <pubDate>Fri, 08 Aug 2025 14:11:04 GMT</pubDate>
   </item><item>
-    <title>MIT</title>
-    <link>https://ivan-kopylove.github.io/heap/aec2</link>
-    <guid>https://ivan-kopylove.github.io/heap/aec2</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 30 Jul 2025 11:39:39 GMT</pubDate>
+    <title>HashMap</title>
+    <link>https://ivan-kopylove.github.io/heap/3455</link>
+    <guid>https://ivan-kopylove.github.io/heap/3455</guid>
+    <description><![CDATA[ What balancing strategy does it use?. ]]></description>
+    <pubDate>Fri, 08 Aug 2025 13:36:37 GMT</pubDate>
   </item><item>
-    <title>Erik Demaine</title>
-    <link>https://ivan-kopylove.github.io/heap/8142</link>
-    <guid>https://ivan-kopylove.github.io/heap/8142</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 30 Jul 2025 11:39:29 GMT</pubDate>
+    <title>2423. Remove Letter To Equalize Frequency</title>
+    <link>https://ivan-kopylove.github.io/heap/8306</link>
+    <guid>https://ivan-kopylove.github.io/heap/8306</guid>
+    <description><![CDATA[ excalidraw.com/#json=WrPCngT4wVI_XNchXryb1,HEAw5kKu6HxND-jXHa6Xkg input = &quot;cccaa&quot; result = ? class Solution { public boolean equalFrequency(String word) { Map&lt;Character, List&lt;Character&gt;&gt; grouped = word.chars() .mapToObj(i -&gt; (char) i) .collect(Collectors.groupingBy(o -&gt; o... ]]></description>
+    <pubDate>Fri, 08 Aug 2025 09:35:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
