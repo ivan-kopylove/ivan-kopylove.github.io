@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>sliding window</title>
+    <link>https://ivan-kopylove.github.io/heap/5036</link>
+    <guid>https://ivan-kopylove.github.io/heap/5036</guid>
+    <description><![CDATA[  605. Can Place Flowers . ]]></description>
+    <pubDate>Sun, 10 Aug 2025 07:55:46 GMT</pubDate>
+  </item><item>
+    <title>605. Can Place Flowers</title>
+    <link>https://ivan-kopylove.github.io/heap/2c01</link>
+    <guid>https://ivan-kopylove.github.io/heap/2c01</guid>
+    <description><![CDATA[  excalidraw.com/#json=5HcPsQbxvrx6sSWwlvbNI,5Ieph5lv0x-3M90X7voQCA vkvideo.ru/video-228235830_456239030 youtu.be/y8fvvequAX8 rutube.ru/video/01c74fb0c854ec220337a5d19fc91609/ koan: class Solution { public boolean canPlaceFlowers(int[] flowerbed, int n) { if(n == ?) { return ?; } if(flowerbed.length ... ]]></description>
+    <pubDate>Sun, 10 Aug 2025 07:53:30 GMT</pubDate>
+  </item><item>
     <title>2133. Check if Every Row and Column Contains All Numbers</title>
     <link>https://ivan-kopylove.github.io/heap/c4b9</link>
     <guid>https://ivan-kopylove.github.io/heap/c4b9</guid>
-    <description><![CDATA[ excalidraw.com/#json=H8P5Q-PXXoh7z9UoZ9QMW,JD-yhrXzGBaraTejJ6E37g vkvideo.ru/video-228235830_456239029 class Solution { public boolean checkValid(int[][] matrix) { for(int i = 0; i &lt; matrix.length; i++) { Set&lt;Integer&gt; uniqueChecker = new HashSet&lt;&gt;(); Set&lt;Integer&gt; columnChecker =... ]]></description>
-    <pubDate>Sat, 09 Aug 2025 14:56:03 GMT</pubDate>
+    <description><![CDATA[  excalidraw.com/#json=H8P5Q-PXXoh7z9UoZ9QMW,JD-yhrXzGBaraTejJ6E37g vkvideo.ru/video-228235830_456239029 koan: what is missing? class Solution { public boolean checkValid(int[][] matrix) { for(int i = 0; i &lt; matrix.length; i++) { ?&lt;Integer&gt; uniqueChecker = new ?&lt;&gt;(); ? for(int j = 0; j... ]]></description>
+    <pubDate>Sun, 10 Aug 2025 07:46:57 GMT</pubDate>
   </item><item>
-    <title>938. Range Sum of BST</title>
-    <link>https://ivan-kopylove.github.io/heap/5b1d</link>
-    <guid>https://ivan-kopylove.github.io/heap/5b1d</guid>
-    <description><![CDATA[ excalidraw.com/#json=KUzane7A6DU6wCzMfS32X,djRBRd-qqmBuXwF5twPgVg Question how to return result without using a shared counter? Question what order do I write the code? . ]]></description>
-    <pubDate>Sat, 09 Aug 2025 11:50:18 GMT</pubDate>
+    <title>graph traversal</title>
+    <link>https://ivan-kopylove.github.io/heap/1264</link>
+    <guid>https://ivan-kopylove.github.io/heap/1264</guid>
+    <description><![CDATA[ DFS 938. Range Sum of BST . ]]></description>
+    <pubDate>Sat, 09 Aug 2025 15:13:02 GMT</pubDate>
   </item><item>
-    <title>lifetime learned</title>
-    <link>https://ivan-kopylove.github.io/heap/095e</link>
-    <guid>https://ivan-kopylove.github.io/heap/095e</guid>
-    <description><![CDATA[ how do I read books Questions What questions helps to understand anything? Что если убрать X Что мне сделать? Пример можно? Суть обучения в том чтобы переставать валидировать входящие и начать доверять источнику, а для этого нужно что? Somthing useful pops up in the mind when it’s time to act - what... ]]></description>
-    <pubDate>Fri, 08 Aug 2025 15:51:26 GMT</pubDate>
+    <title>3622. Check Divisibility by Digit Sum and Product</title>
+    <link>https://ivan-kopylove.github.io/heap/b6e3</link>
+    <guid>https://ivan-kopylove.github.io/heap/b6e3</guid>
+    <description><![CDATA[ excalidraw.com/#json=IXXtwFE_4nTlc0RwITsf6,sCE-8nDZ6Wal8nOW_4Vu5g 2 mistakes questions class Solution { public boolean checkDivisibility(int n) { int whole = ?; List&lt;Integer&gt; parsed = new LinkedList(); while(?) { int parsedNum = ?; parsed.add(parsedNum); } int sum = parsed.stream().reduce(0, (... ]]></description>
+    <pubDate>Sat, 09 Aug 2025 15:08:45 GMT</pubDate>
   </item><item>
-    <title>1694. Reformat Phone Number</title>
-    <link>https://ivan-kopylove.github.io/heap/e64e</link>
-    <guid>https://ivan-kopylove.github.io/heap/e64e</guid>
-    <description><![CDATA[ excalidraw.com/#json=ZE4i1Abw_uO-TONCrcJwo,M3GWSFa0lY_xuFnUNeZUgg. ]]></description>
-    <pubDate>Fri, 08 Aug 2025 14:40:32 GMT</pubDate>
+    <title>Flyway</title>
+    <link>https://ivan-kopylove.github.io/heap/e314</link>
+    <guid>https://ivan-kopylove.github.io/heap/e314</guid>
+    <description><![CDATA[ What did that guy who resembles GK said about Flyway in Java? When any cached thing is a part of any composite, this is what?. ]]></description>
+    <pubDate>Sat, 09 Aug 2025 15:02:38 GMT</pubDate>
   </item><item>
-    <title>array</title>
-    <link>https://ivan-kopylove.github.io/heap/9f19</link>
-    <guid>https://ivan-kopylove.github.io/heap/9f19</guid>
-    <description><![CDATA[ 1437. Check If All 1’s Are at Least Length K Places Away. ]]></description>
-    <pubDate>Fri, 08 Aug 2025 14:26:31 GMT</pubDate>
+    <title>Malware reporter skype bot</title>
+    <link>https://ivan-kopylove.github.io/CV/2c70</link>
+    <guid>https://ivan-kopylove.github.io/CV/2c70</guid>
+    <description><![CDATA[  Company: vk 2014-02 — 2015-09 From scratch implemented a Skype bot which reports phishing and malware websites to security organizations (like Phishtank) and to the web hosters. ]]></description>
+    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
   </item><item>
-    <title>1437. Check If All 1&#039;s Are at Least Length K Places Away</title>
-    <link>https://ivan-kopylove.github.io/heap/64e9</link>
-    <guid>https://ivan-kopylove.github.io/heap/64e9</guid>
-    <description><![CDATA[ excalidraw.com/#json=6GjfNWHQls_cEisfYJwuU,sRxc1jnGzNXYvLspbaun1g. ]]></description>
-    <pubDate>Fri, 08 Aug 2025 14:26:17 GMT</pubDate>
+    <title>Voice Order</title>
+    <link>https://ivan-kopylove.github.io/CV/4bd6</link>
+    <guid>https://ivan-kopylove.github.io/CV/4bd6</guid>
+    <description><![CDATA[  2023-08 – 2025-03 Full time Telephony (PBX) department A solo maintainer of a telephony backend microservice within a taxi service. ]]></description>
+    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
   </item><item>
-    <title>math</title>
-    <link>https://ivan-kopylove.github.io/heap/de5a</link>
-    <guid>https://ivan-kopylove.github.io/heap/de5a</guid>
-    <description><![CDATA[  3622. Check Divisibility by Digit Sum and Product 1290. Convert Binary Number in a Linked List to Integer . ]]></description>
-    <pubDate>Fri, 08 Aug 2025 14:11:10 GMT</pubDate>
+    <title>Nival Online</title>
+    <link>https://ivan-kopylove.github.io/CV/4ed3</link>
+    <guid>https://ivan-kopylove.github.io/CV/4ed3</guid>
+    <description><![CDATA[  2008-07-01 —2009-09-28 1st line support specialist Resolved 1st line tickets. ]]></description>
+    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
   </item><item>
-    <title>1290. Convert Binary Number in a Linked List to Integer</title>
-    <link>https://ivan-kopylove.github.io/heap/10fa</link>
-    <guid>https://ivan-kopylove.github.io/heap/10fa</guid>
-    <description><![CDATA[ excalidraw.com/#json=yxEFwhsjo8ZFzAazgmy3k,dNZgG7abA8vUEe3dotD9PA. ]]></description>
-    <pubDate>Fri, 08 Aug 2025 14:11:04 GMT</pubDate>
-  </item><item>
-    <title>HashMap</title>
-    <link>https://ivan-kopylove.github.io/heap/3455</link>
-    <guid>https://ivan-kopylove.github.io/heap/3455</guid>
-    <description><![CDATA[ What balancing strategy does it use?. ]]></description>
-    <pubDate>Fri, 08 Aug 2025 13:36:37 GMT</pubDate>
-  </item><item>
-    <title>2423. Remove Letter To Equalize Frequency</title>
-    <link>https://ivan-kopylove.github.io/heap/8306</link>
-    <guid>https://ivan-kopylove.github.io/heap/8306</guid>
-    <description><![CDATA[ excalidraw.com/#json=WrPCngT4wVI_XNchXryb1,HEAw5kKu6HxND-jXHa6Xkg input = &quot;cccaa&quot; result = ? class Solution { public boolean equalFrequency(String word) { Map&lt;Character, List&lt;Character&gt;&gt; grouped = word.chars() .mapToObj(i -&gt; (char) i) .collect(Collectors.groupingBy(o -&gt; o... ]]></description>
-    <pubDate>Fri, 08 Aug 2025 09:35:08 GMT</pubDate>
+    <title>MGT - IP location tool</title>
+    <link>https://ivan-kopylove.github.io/CV/4f35</link>
+    <guid>https://ivan-kopylove.github.io/CV/4f35</guid>
+    <description><![CDATA[  Company: vk 2013-01 — 2015-07 Implemented a windows WPF IP location tool based on Quova geo API. The application shows multiple IP’s geo information. ]]></description>
+    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
   </item>
     </channel>
   </rss>
