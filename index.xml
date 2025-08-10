@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>sliding window</title>
-    <link>https://ivan-kopylove.github.io/heap/5036</link>
-    <guid>https://ivan-kopylove.github.io/heap/5036</guid>
-    <description><![CDATA[  605. Can Place Flowers . ]]></description>
-    <pubDate>Sun, 10 Aug 2025 07:55:46 GMT</pubDate>
-  </item><item>
     <title>605. Can Place Flowers</title>
-    <link>https://ivan-kopylove.github.io/heap/2c01</link>
-    <guid>https://ivan-kopylove.github.io/heap/2c01</guid>
-    <description><![CDATA[  excalidraw.com/#json=5HcPsQbxvrx6sSWwlvbNI,5Ieph5lv0x-3M90X7voQCA vkvideo.ru/video-228235830_456239030 youtu.be/y8fvvequAX8 rutube.ru/video/01c74fb0c854ec220337a5d19fc91609/ koan: class Solution { public boolean canPlaceFlowers(int[] flowerbed, int n) { if(n == ?) { return ?; } if(flowerbed.length ... ]]></description>
-    <pubDate>Sun, 10 Aug 2025 07:53:30 GMT</pubDate>
+    <link>https://ivan-kopylove.github.io/leetcode/2c01</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/2c01</guid>
+    <description><![CDATA[  excalidraw.com/#json=5HcPsQbxvrx6sSWwlvbNI,5Ieph5lv0x-3M90X7voQCA koan: class Solution { public boolean canPlaceFlowers(int[] flowerbed, int n) { if(n == ?) { return ?; } if(flowerbed.length &lt; ?) { return ? } int counter = 0; int i = 0; if( ? &amp;&amp; ? ) { counter++; flowerbed[0] = 1; } while... ]]></description>
+    <pubDate>Sun, 10 Aug 2025 12:14:30 GMT</pubDate>
   </item><item>
-    <title>2133. Check if Every Row and Column Contains All Numbers</title>
-    <link>https://ivan-kopylove.github.io/heap/c4b9</link>
-    <guid>https://ivan-kopylove.github.io/heap/c4b9</guid>
-    <description><![CDATA[  excalidraw.com/#json=H8P5Q-PXXoh7z9UoZ9QMW,JD-yhrXzGBaraTejJ6E37g vkvideo.ru/video-228235830_456239029 koan: what is missing? class Solution { public boolean checkValid(int[][] matrix) { for(int i = 0; i &lt; matrix.length; i++) { ?&lt;Integer&gt; uniqueChecker = new ?&lt;&gt;(); ? for(int j = 0; j... ]]></description>
-    <pubDate>Sun, 10 Aug 2025 07:46:57 GMT</pubDate>
+    <title>2423. Remove Letter To Equalize Frequency</title>
+    <link>https://ivan-kopylove.github.io/leetcode/8306</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/8306</guid>
+    <description><![CDATA[ excalidraw.com/#json=WrPCngT4wVI_XNchXryb1,HEAw5kKu6HxND-jXHa6Xkg input = &quot;cccaa&quot; result = ? class Solution { public boolean equalFrequency(String word) { Map&lt;Character, List&lt;Character&gt;&gt; grouped = word.chars() .mapToObj(i -&gt; (char) i) .collect(Collectors.groupingBy(o -&gt; o... ]]></description>
+    <pubDate>Sun, 10 Aug 2025 12:00:58 GMT</pubDate>
   </item><item>
-    <title>graph traversal</title>
-    <link>https://ivan-kopylove.github.io/heap/1264</link>
-    <guid>https://ivan-kopylove.github.io/heap/1264</guid>
-    <description><![CDATA[ DFS 938. Range Sum of BST . ]]></description>
-    <pubDate>Sat, 09 Aug 2025 15:13:02 GMT</pubDate>
+    <title>11. Container With Most Water</title>
+    <link>https://ivan-kopylove.github.io/leetcode/6b0b</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/6b0b</guid>
+    <description><![CDATA[ excalidraw.com/#json=YAgk3kjflDwiGD_uyyPf7,dIEQaYgf83sbvOprJOv31g . ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:59:40 GMT</pubDate>
   </item><item>
-    <title>3622. Check Divisibility by Digit Sum and Product</title>
-    <link>https://ivan-kopylove.github.io/heap/b6e3</link>
-    <guid>https://ivan-kopylove.github.io/heap/b6e3</guid>
-    <description><![CDATA[ excalidraw.com/#json=IXXtwFE_4nTlc0RwITsf6,sCE-8nDZ6Wal8nOW_4Vu5g 2 mistakes questions class Solution { public boolean checkDivisibility(int n) { int whole = ?; List&lt;Integer&gt; parsed = new LinkedList(); while(?) { int parsedNum = ?; parsed.add(parsedNum); } int sum = parsed.stream().reduce(0, (... ]]></description>
-    <pubDate>Sat, 09 Aug 2025 15:08:45 GMT</pubDate>
+    <title>986. Interval List Intersections</title>
+    <link>https://ivan-kopylove.github.io/leetcode/b424</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/b424</guid>
+    <description><![CDATA[  www.google.com/search+986 excalidraw.com/#json=OJuSzSSu_qxZGPh8eFEtM,5ToNbhJD5phmVN4yUTPLfA . ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:59:36 GMT</pubDate>
   </item><item>
-    <title>Flyway</title>
-    <link>https://ivan-kopylove.github.io/heap/e314</link>
-    <guid>https://ivan-kopylove.github.io/heap/e314</guid>
-    <description><![CDATA[ What did that guy who resembles GK said about Flyway in Java? When any cached thing is a part of any composite, this is what?. ]]></description>
-    <pubDate>Sat, 09 Aug 2025 15:02:38 GMT</pubDate>
+    <title>560. Subarray Sum Equals K</title>
+    <link>https://ivan-kopylove.github.io/leetcode/fd53</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/fd53</guid>
+    <description><![CDATA[ Brainstorm artifacts excalidraw.com/#json=PwkGDCn2zMySPW4byjV7j,NQffHMcNxn01sWItOBqW-Q . ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:59:20 GMT</pubDate>
   </item><item>
-    <title>Malware reporter skype bot</title>
-    <link>https://ivan-kopylove.github.io/CV/2c70</link>
-    <guid>https://ivan-kopylove.github.io/CV/2c70</guid>
-    <description><![CDATA[  Company: vk 2014-02 — 2015-09 From scratch implemented a Skype bot which reports phishing and malware websites to security organizations (like Phishtank) and to the web hosters. ]]></description>
-    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
+    <title>525. Contiguous Array</title>
+    <link>https://ivan-kopylove.github.io/leetcode/c064</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/c064</guid>
+    <description><![CDATA[  www.google.com/search+525 excalidraw.com/#json=E1eyUOWfEx5o_ea97k33k,XdCqeK5WO86uJBe2l1QKSA . ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:59:08 GMT</pubDate>
   </item><item>
-    <title>Voice Order</title>
-    <link>https://ivan-kopylove.github.io/CV/4bd6</link>
-    <guid>https://ivan-kopylove.github.io/CV/4bd6</guid>
-    <description><![CDATA[  2023-08 – 2025-03 Full time Telephony (PBX) department A solo maintainer of a telephony backend microservice within a taxi service. ]]></description>
-    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
+    <title>1513. Number of Substrings With Only 1s</title>
+    <link>https://ivan-kopylove.github.io/leetcode/3813</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/3813</guid>
+    <description><![CDATA[ excalidraw.com/#json=aLO3aqX3gEA-6uaWnsUNO,E7CwFsY3fV_gGZZnXumu3A class Solution { public int numSub(String s) { (int or long?) result = 0; (int or long?) current = 0; for(int i = 0; i &lt; s.length(); i++) { if(s.charAt(i) == &#039;0&#039;) { if(current &gt; 0) { result += ? result = ? current = ?;... ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:58:56 GMT</pubDate>
   </item><item>
-    <title>Nival Online</title>
-    <link>https://ivan-kopylove.github.io/CV/4ed3</link>
-    <guid>https://ivan-kopylove.github.io/CV/4ed3</guid>
-    <description><![CDATA[  2008-07-01 —2009-09-28 1st line support specialist Resolved 1st line tickets. ]]></description>
-    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
+    <title>746. Min Cost Climbing Stairs</title>
+    <link>https://ivan-kopylove.github.io/leetcode/c606</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/c606</guid>
+    <description><![CDATA[ look behind . ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:58:29 GMT</pubDate>
   </item><item>
-    <title>MGT - IP location tool</title>
-    <link>https://ivan-kopylove.github.io/CV/4f35</link>
-    <guid>https://ivan-kopylove.github.io/CV/4f35</guid>
-    <description><![CDATA[  Company: vk 2013-01 — 2015-07 Implemented a windows WPF IP location tool based on Quova geo API. The application shows multiple IP’s geo information. ]]></description>
-    <pubDate>Sat, 09 Aug 2025 15:00:16 GMT</pubDate>
+    <title>70. Climbing Stairs</title>
+    <link>https://ivan-kopylove.github.io/leetcode/f4c2</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/f4c2</guid>
+    <description><![CDATA[ What is brother of recursion? What if there were no these siblings at all? The whole point is sumulate steps and make up an interruption condition. ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:51:04 GMT</pubDate>
+  </item><item>
+    <title>938. Range Sum of BST</title>
+    <link>https://ivan-kopylove.github.io/leetcode/5b1d</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/5b1d</guid>
+    <description><![CDATA[ excalidraw.com/#json=KUzane7A6DU6wCzMfS32X,djRBRd-qqmBuXwF5twPgVg Question how to return result without using a shared counter? Question what order do I write the code? . ]]></description>
+    <pubDate>Sun, 10 Aug 2025 11:45:59 GMT</pubDate>
   </item>
     </channel>
   </rss>
