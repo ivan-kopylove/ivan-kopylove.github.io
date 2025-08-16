@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://ivan-kopylove.github.io/</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
-  </url><url>
     <loc>https://ivan-kopylove.github.io/CV/0443</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
@@ -21,7 +18,7 @@
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/CV/4bd6</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/CV/4db7</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
@@ -89,29 +86,56 @@
     <loc>https://ivan-kopylove.github.io/CV/</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/15a2</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/252d</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/2638</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/2ed8</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/3707</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/3d7b</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/ace7</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/adapter/d185</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/0076</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/0350</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/03e2</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/0959</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/095e</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/0ae3</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/0b25</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/0d3a</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/1264</loc>
-    <lastmod>2025-08-09T15:13:02.109Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/1697</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
@@ -120,13 +144,13 @@
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/18b7</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/19ac</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/2172</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/261c</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
@@ -134,11 +158,14 @@
     <loc>https://ivan-kopylove.github.io/heap/3455</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/3468</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/34cd</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/386d</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/38b3</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
@@ -152,35 +179,62 @@
     <loc>https://ivan-kopylove.github.io/heap/3d60</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/3ffd</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/434b</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/45e9</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/49c1</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/5036</loc>
-    <lastmod>2025-08-10T07:55:46.480Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/536e</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/5533</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/6041</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/6358</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/6570</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/671c</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/6892</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/694c</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/6c6d</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/7369</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/769e</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/76ad</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/777c</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/7c73</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/7d7b</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
@@ -191,20 +245,32 @@
     <loc>https://ivan-kopylove.github.io/heap/8dff</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
-    <loc>https://ivan-kopylove.github.io/heap/9a64</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <loc>https://ivan-kopylove.github.io/heap/8ea8</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/927a</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/9f19</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/a3c0</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/a3c6</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/a494</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/a963</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/aae7</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/ae32</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/aec2</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
@@ -215,6 +281,9 @@
     <loc>https://ivan-kopylove.github.io/heap/ba60</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/bcc6</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/bf97</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
@@ -222,7 +291,10 @@
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/c566</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/c97c</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/cb1b</loc>
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
@@ -237,104 +309,149 @@
     <lastmod>2025-08-09T15:00:16.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/de5a</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/e228</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/e28c</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/e314</loc>
-    <lastmod>2025-08-09T15:02:38.691Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/e3e8</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/e63a</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
-  </url><url>
-    <loc>https://ivan-kopylove.github.io/heap/e64e</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/e654</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/e6a5</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/e74e</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/f222</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/f4e1</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/heap/</loc>
-    <lastmod>2025-08-09T15:00:16.000Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/</loc>
+    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/067a</loc>
-    <lastmod>2025-08-10T11:41:54.566Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/098f</loc>
-    <lastmod>2025-08-10T09:51:03.412Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/0b37</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/10fa</loc>
-    <lastmod>2025-08-10T11:45:33.747Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/13b3</loc>
-    <lastmod>2025-08-10T11:40:41.982Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/239a</loc>
-    <lastmod>2025-08-10T11:42:17.615Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/2c01</loc>
-    <lastmod>2025-08-10T12:14:30.426Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/3813</loc>
-    <lastmod>2025-08-10T11:58:56.584Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/4ed4</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/5b1d</loc>
-    <lastmod>2025-08-10T11:45:59.816Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/5c49</loc>
-    <lastmod>2025-08-10T09:50:37.070Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/60a9</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/64e9</loc>
-    <lastmod>2025-08-10T11:45:43.391Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/6b0b</loc>
-    <lastmod>2025-08-10T11:59:40.075Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/7a56</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/82ee</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/8306</loc>
-    <lastmod>2025-08-10T12:00:58.044Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/841f</loc>
-    <lastmod>2025-08-10T11:41:44.917Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/925e</loc>
-    <lastmod>2025-08-10T09:50:59.188Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/9a64</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/9a7f</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/a286</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/b282</loc>
-    <lastmod>2025-08-10T09:50:48.521Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/b424</loc>
-    <lastmod>2025-08-10T11:59:36.106Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/b583</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/b6e3</loc>
-    <lastmod>2025-08-10T11:45:29.571Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/c064</loc>
-    <lastmod>2025-08-10T11:59:08.982Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/c432</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/c4b9</loc>
-    <lastmod>2025-08-10T11:45:51.777Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/c606</loc>
-    <lastmod>2025-08-10T11:58:29.110Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/d432</loc>
-    <lastmod>2025-08-10T11:42:03.469Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/d6d5</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/d9d6</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/e64e</loc>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/f4c2</loc>
-    <lastmod>2025-08-10T11:51:04.242Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/fd53</loc>
-    <lastmod>2025-08-10T11:59:20.668Z</lastmod>
+    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url></urlset>
