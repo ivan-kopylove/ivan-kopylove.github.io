@@ -1,4 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://ivan-kopylove.github.io/</loc>
+    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
+  </url><url>
     <loc>https://ivan-kopylove.github.io/CV/0443</loc>
     <lastmod>2025-07-30T16:43:37.000Z</lastmod>
   </url><url>
@@ -254,9 +257,6 @@
     <loc>https://ivan-kopylove.github.io/heap/9f19</loc>
     <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
-    <loc>https://ivan-kopylove.github.io/heap/a3c0</loc>
-    <lastmod>2025-08-16T11:26:04.000Z</lastmod>
-  </url><url>
     <loc>https://ivan-kopylove.github.io/heap/a3c6</loc>
     <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
@@ -344,9 +344,6 @@
     <loc>https://ivan-kopylove.github.io/heap/</loc>
     <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
-    <loc>https://ivan-kopylove.github.io/</loc>
-    <lastmod>2025-07-30T16:43:37.000Z</lastmod>
-  </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/067a</loc>
     <lastmod>2025-08-16T11:26:04.000Z</lastmod>
   </url><url>
@@ -388,6 +385,12 @@
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/6b0b</loc>
     <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/75e0.excalidraw</loc>
+    <lastmod>2025-08-17T05:31:13.185Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/75e0</loc>
+    <lastmod>2025-08-17T05:31:27.836Z</lastmod>
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/7a56</loc>
     <lastmod>2025-08-16T11:26:04.000Z</lastmod>
@@ -454,4 +457,16 @@
   </url><url>
     <loc>https://ivan-kopylove.github.io/leetcode/fd53</loc>
     <lastmod>2025-08-16T11:26:04.000Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/ffa0.excalidraw</loc>
+    <lastmod>2025-08-17T05:02:14.560Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/ffa0</loc>
+    <lastmod>2025-08-17T05:02:44.064Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/leetcode/a3c0</loc>
+    <lastmod>2025-08-17T05:32:58.676Z</lastmod>
+  </url><url>
+    <loc>https://ivan-kopylove.github.io/heap/36cc</loc>
+    <lastmod>2025-08-17T05:36:17.249Z</lastmod>
   </url></urlset>
