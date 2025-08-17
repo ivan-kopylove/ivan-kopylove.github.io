@@ -42,12 +42,6 @@
     <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
     <pubDate>Sun, 17 Aug 2025 05:02:14 GMT</pubDate>
   </item><item>
-    <title>Voice Order</title>
-    <link>https://ivan-kopylove.github.io/CV/4bd6</link>
-    <guid>https://ivan-kopylove.github.io/CV/4bd6</guid>
-    <description><![CDATA[  2023-08 – 2025-03 Full time Telephony (PBX) department A solo maintainer of a telephony backend microservice within a taxi service. ]]></description>
-    <pubDate>Sat, 16 Aug 2025 11:26:04 GMT</pubDate>
-  </item><item>
     <title>adapter-15a2</title>
     <link>https://ivan-kopylove.github.io/adapter/15a2</link>
     <guid>https://ivan-kopylove.github.io/adapter/15a2</guid>
@@ -64,6 +58,12 @@
     <link>https://ivan-kopylove.github.io/adapter/2638</link>
     <guid>https://ivan-kopylove.github.io/adapter/2638</guid>
     <description><![CDATA[ How Hexagonal Architecturue is used in Voice Order?. ]]></description>
+    <pubDate>Sat, 16 Aug 2025 11:26:04 GMT</pubDate>
+  </item><item>
+    <title>adapter-2ed8</title>
+    <link>https://ivan-kopylove.github.io/adapter/2ed8</link>
+    <guid>https://ivan-kopylove.github.io/adapter/2ed8</guid>
+    <description><![CDATA[ Adapter how Taleb’s context related to leetcode?. ]]></description>
     <pubDate>Sat, 16 Aug 2025 11:26:04 GMT</pubDate>
   </item>
     </channel>
