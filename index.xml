@@ -6,23 +6,35 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>2571. Minimum Operations to Reduce an Integer to 0</title>
-    <link>https://ivan-kopylove.github.io/leetcode/0c78</link>
-    <guid>https://ivan-kopylove.github.io/leetcode/0c78</guid>
-    <description><![CDATA[  problem definition github what subpattern it is? . ]]></description>
-    <pubDate>Mon, 01 Sep 2025 10:20:50 GMT</pubDate>
+    <title>990. Satisfiability of Equality Equations</title>
+    <link>https://ivan-kopylove.github.io/leetcode/88a6</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/88a6</guid>
+    <description><![CDATA[  problem definition github whiteboarded . ]]></description>
+    <pubDate>Mon, 01 Sep 2025 14:03:13 GMT</pubDate>
+  </item><item>
+    <title>2862. Maximum Element-Sum of a Complete Subset of Indices</title>
+    <link>https://ivan-kopylove.github.io/leetcode/9f91</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/9f91</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 01 Sep 2025 12:59:31 GMT</pubDate>
   </item><item>
     <title>2998. Minimum Number of Operations to Make X and Y Equal</title>
     <link>https://ivan-kopylove.github.io/leetcode/3a54</link>
     <guid>https://ivan-kopylove.github.io/leetcode/3a54</guid>
-    <description><![CDATA[  problew definition github . ]]></description>
-    <pubDate>Mon, 01 Sep 2025 10:19:36 GMT</pubDate>
+    <description><![CDATA[  problem definition github . ]]></description>
+    <pubDate>Mon, 01 Sep 2025 10:27:49 GMT</pubDate>
+  </item><item>
+    <title>2571. Minimum Operations to Reduce an Integer to 0</title>
+    <link>https://ivan-kopylove.github.io/leetcode/0c78</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/0c78</guid>
+    <description><![CDATA[  problem definition github what subpattern it is? . ]]></description>
+    <pubDate>Mon, 01 Sep 2025 10:25:17 GMT</pubDate>
   </item><item>
     <title>2222. Number of Ways to Select Buildings</title>
     <link>https://ivan-kopylove.github.io/leetcode/8b49</link>
     <guid>https://ivan-kopylove.github.io/leetcode/8b49</guid>
     <description><![CDATA[  problem definition github . ]]></description>
-    <pubDate>Mon, 01 Sep 2025 10:19:08 GMT</pubDate>
+    <pubDate>Mon, 01 Sep 2025 10:25:17 GMT</pubDate>
   </item><item>
     <title>XOR</title>
     <link>https://ivan-kopylove.github.io/heap/af19</link>
@@ -35,12 +47,6 @@
     <guid>https://ivan-kopylove.github.io/heap/9a99</guid>
     <description><![CDATA[ what is optimal strategy to detect a cycle? what is less optimal releted to a train?. ]]></description>
     <pubDate>Fri, 29 Aug 2025 09:40:41 GMT</pubDate>
-  </item><item>
-    <title>Digital garden 🌱</title>
-    <link>https://ivan-kopylove.github.io/</link>
-    <guid>https://ivan-kopylove.github.io/</guid>
-    <description><![CDATA[ Hey everyone! My name is Ivan and this is my digital garden. The majority of the notes are raw &amp; unstructured. ]]></description>
-    <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
   </item><item>
     <title>English 2017</title>
     <link>https://ivan-kopylove.github.io/CV/0443</link>
@@ -58,12 +64,6 @@
     <link>https://ivan-kopylove.github.io/CV/4bd6</link>
     <guid>https://ivan-kopylove.github.io/CV/4bd6</guid>
     <description><![CDATA[  2023-08 – 2025-03 Full time Telephony (PBX) department Senior backend Kotlin developer A solo maintainer of a telephony backend microservice within a taxi service. ]]></description>
-    <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
-  </item><item>
-    <title>vk</title>
-    <link>https://ivan-kopylove.github.io/CV/539a</link>
-    <guid>https://ivan-kopylove.github.io/CV/539a</guid>
-    <description><![CDATA[ VK 2010-04-26 — 2015-08-01 Full time Senior Investigating Department Specialist Main role: Senior Investigating Department Specialist Side activities: MGT: en / ru anti-malware skype bot: en / skype bot - ru English 2011 English 2012..2015 Investigated the virtual crimes: fraud, accounts hijacking, ... ]]></description>
     <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
   </item>
     </channel>
