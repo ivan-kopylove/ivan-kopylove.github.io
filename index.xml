@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>47ac</title>
-    <link>https://ivan-kopylove.github.io/heap/47ac</link>
-    <guid>https://ivan-kopylove.github.io/heap/47ac</guid>
-    <description><![CDATA[ X = Java Thread.join Explain using similar things with little difference “it’s like X, but Y” Examples (no need to explain): cherry pick - merge merges the whole branch, but cherry pick what? volatile - ThreadLocal hides the visibility, and volatile is opposite - strongly exposes it what if there we... ]]></description>
-    <pubDate>Fri, 29 Aug 2025 05:17:32 GMT</pubDate>
-  </item><item>
-    <title>binary</title>
-    <link>https://ivan-kopylove.github.io/heap/0ffd</link>
-    <guid>https://ivan-kopylove.github.io/heap/0ffd</guid>
-    <description><![CDATA[  2980. Check if Bitwise OR Has Trailing Zeros . ]]></description>
-    <pubDate>Thu, 28 Aug 2025 08:46:30 GMT</pubDate>
-  </item><item>
-    <title>knapsack</title>
-    <link>https://ivan-kopylove.github.io/heap/4acb</link>
-    <guid>https://ivan-kopylove.github.io/heap/4acb</guid>
-    <description><![CDATA[ what combinations permutations this pattern is mapped to? what should I tweak here to convert between unbounded knapsack 0/1 knapsack? Unbounded 2571. ]]></description>
-    <pubDate>Thu, 28 Aug 2025 07:14:05 GMT</pubDate>
-  </item><item>
     <title>2571. Minimum Operations to Reduce an Integer to 0</title>
-    <link>https://ivan-kopylove.github.io/heap/0c78</link>
-    <guid>https://ivan-kopylove.github.io/heap/0c78</guid>
-    <description><![CDATA[ what subpattern it is? www.google.com/search+leetcode excalidraw.com/#json=I9vZAUd16o-Ucufh67ZO6,NbNWmydLRE7xS848v8UPKw Transclude of 0c78.excalidraw fail-1 github.com/search%3Aivan-kopylove%20minimum-operations&amp;type=code. ]]></description>
-    <pubDate>Thu, 28 Aug 2025 07:09:43 GMT</pubDate>
+    <link>https://ivan-kopylove.github.io/leetcode/0c78</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/0c78</guid>
+    <description><![CDATA[  problem definition github what subpattern it is? . ]]></description>
+    <pubDate>Mon, 01 Sep 2025 10:20:50 GMT</pubDate>
   </item><item>
-    <title>boxing</title>
-    <link>https://ivan-kopylove.github.io/heap/fcec</link>
-    <guid>https://ivan-kopylove.github.io/heap/fcec</guid>
-    <description><![CDATA[ github.com/search%3Aivan-kopylove+boxing&amp;type=code. ]]></description>
-    <pubDate>Wed, 27 Aug 2025 06:24:14 GMT</pubDate>
+    <title>2998. Minimum Number of Operations to Make X and Y Equal</title>
+    <link>https://ivan-kopylove.github.io/leetcode/3a54</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/3a54</guid>
+    <description><![CDATA[  problew definition github . ]]></description>
+    <pubDate>Mon, 01 Sep 2025 10:19:36 GMT</pubDate>
   </item><item>
-    <title>Аттрибуты vs отдельная сущность</title>
-    <link>https://ivan-kopylove.github.io/heap/cc9a</link>
-    <guid>https://ivan-kopylove.github.io/heap/cc9a</guid>
-    <description><![CDATA[ Аттрибуты vs отдельная сущность Для примера - аннотация @Transactional - у неё есть аттрибут readonly. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 15:32:08 GMT</pubDate>
+    <title>2222. Number of Ways to Select Buildings</title>
+    <link>https://ivan-kopylove.github.io/leetcode/8b49</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/8b49</guid>
+    <description><![CDATA[  problem definition github . ]]></description>
+    <pubDate>Mon, 01 Sep 2025 10:19:08 GMT</pubDate>
   </item><item>
-    <title>maven</title>
-    <link>https://ivan-kopylove.github.io/heap/34c4</link>
-    <guid>https://ivan-kopylove.github.io/heap/34c4</guid>
-    <description><![CDATA[ what is the purpose of using submodules?. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 15:32:08 GMT</pubDate>
+    <title>XOR</title>
+    <link>https://ivan-kopylove.github.io/heap/af19</link>
+    <guid>https://ivan-kopylove.github.io/heap/af19</guid>
+    <description><![CDATA[ how XOR relates to encryption? how XOR relates to Prisoners and Hats? www.google.com/search+2+addition+naming. ]]></description>
+    <pubDate>Fri, 29 Aug 2025 10:28:00 GMT</pubDate>
   </item><item>
-    <title>SOLID</title>
-    <link>https://ivan-kopylove.github.io/heap/997e</link>
-    <guid>https://ivan-kopylove.github.io/heap/997e</guid>
-    <description><![CDATA[ What letter is viloated in java? What letters are duplicating?. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 15:32:08 GMT</pubDate>
+    <title>linked list</title>
+    <link>https://ivan-kopylove.github.io/heap/9a99</link>
+    <guid>https://ivan-kopylove.github.io/heap/9a99</guid>
+    <description><![CDATA[ what is optimal strategy to detect a cycle? what is less optimal releted to a train?. ]]></description>
+    <pubDate>Fri, 29 Aug 2025 09:40:41 GMT</pubDate>
   </item><item>
-    <title>invariant</title>
-    <link>https://ivan-kopylove.github.io/heap/d4e2</link>
-    <guid>https://ivan-kopylove.github.io/heap/d4e2</guid>
-    <description><![CDATA[ what is the name for term when it used in different contexts? what is class invariant? what is loop invariant? how invariant relates to generics? how invariant relates to return types? how invariant relates to method arugment types?. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 15:32:08 GMT</pubDate>
+    <title>Digital garden 🌱</title>
+    <link>https://ivan-kopylove.github.io/</link>
+    <guid>https://ivan-kopylove.github.io/</guid>
+    <description><![CDATA[ Hey everyone! My name is Ivan and this is my digital garden. The majority of the notes are raw &amp; unstructured. ]]></description>
+    <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
   </item><item>
-    <title>1619. Mean of Array After Removing Some Elements</title>
-    <link>https://ivan-kopylove.github.io/leetcode/a465</link>
-    <guid>https://ivan-kopylove.github.io/leetcode/a465</guid>
-    <description><![CDATA[ a good easy task to remind myself of lot of minor things by searching. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 15:32:08 GMT</pubDate>
+    <title>English 2017</title>
+    <link>https://ivan-kopylove.github.io/CV/0443</link>
+    <guid>https://ivan-kopylove.github.io/CV/0443</guid>
+    <description><![CDATA[ English 2017 organization:: Globus-International on behalf of Deutsche Telekom IT Solutions start:: 2017-02-27 end:: 2017-12-11 title:: Offline upper intermediate English group course teacher:: Svetlana L. ]]></description>
+    <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
+  </item><item>
+    <title>English 2023-2024</title>
+    <link>https://ivan-kopylove.github.io/CV/0f1e</link>
+    <guid>https://ivan-kopylove.github.io/CV/0f1e</guid>
+    <description><![CDATA[ organization:: Maxim Technology Education title:: Remote corporate intermediate group English start:: 2023-09-19 end:: 2024-03-28 description:: Remote intermediate English. ]]></description>
+    <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
+  </item><item>
+    <title>Voice Order</title>
+    <link>https://ivan-kopylove.github.io/CV/4bd6</link>
+    <guid>https://ivan-kopylove.github.io/CV/4bd6</guid>
+    <description><![CDATA[  2023-08 – 2025-03 Full time Telephony (PBX) department Senior backend Kotlin developer A solo maintainer of a telephony backend microservice within a taxi service. ]]></description>
+    <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
+  </item><item>
+    <title>vk</title>
+    <link>https://ivan-kopylove.github.io/CV/539a</link>
+    <guid>https://ivan-kopylove.github.io/CV/539a</guid>
+    <description><![CDATA[ VK 2010-04-26 — 2015-08-01 Full time Senior Investigating Department Specialist Main role: Senior Investigating Department Specialist Side activities: MGT: en / ru anti-malware skype bot: en / skype bot - ru English 2011 English 2012..2015 Investigated the virtual crimes: fraud, accounts hijacking, ... ]]></description>
+    <pubDate>Fri, 29 Aug 2025 06:38:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
