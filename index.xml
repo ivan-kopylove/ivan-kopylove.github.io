@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Формализация</title>
-    <link>https://ivan-kopylove.github.io/heap/702a</link>
-    <guid>https://ivan-kopylove.github.io/heap/702a</guid>
-    <description><![CDATA[ Блеск и нищета формализации. ]]></description>
-    <pubDate>Thu, 04 Sep 2025 05:50:50 GMT</pubDate>
+    <title>Про sandbox-игры</title>
+    <link>https://ivan-kopylove.github.io/heap/1a08</link>
+    <guid>https://ivan-kopylove.github.io/heap/1a08</guid>
+    <description><![CDATA[ Разработчики sandbox-игр при дизайне игры оперируют разными уровнями абстракции узлов (компонентов). Или иначе сказать - детализации. ]]></description>
+    <pubDate>Sat, 06 Sep 2025 10:04:17 GMT</pubDate>
   </item><item>
-    <title>top-down</title>
-    <link>https://ivan-kopylove.github.io/heap/9749</link>
-    <guid>https://ivan-kopylove.github.io/heap/9749</guid>
+    <title>Algorithm design</title>
+    <link>https://ivan-kopylove.github.io/heap/053a</link>
+    <guid>https://ivan-kopylove.github.io/heap/053a</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 04 Sep 2025 05:48:27 GMT</pubDate>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
   </item><item>
-    <title>shared resource</title>
-    <link>https://ivan-kopylove.github.io/heap/592e</link>
-    <guid>https://ivan-kopylove.github.io/heap/592e</guid>
-    <description><![CDATA[ Why infra resources are shared? what is the reason in general for singleton to exist? Examples: infra: a well (what would be a denormalization?) roads, transport, gym specialist (why?) town council - what is specific reason for this to be a singleton? singleton things: a registry referred by JOIN - ... ]]></description>
-    <pubDate>Thu, 04 Sep 2025 04:36:36 GMT</pubDate>
-  </item><item>
-    <title>specialist</title>
-    <link>https://ivan-kopylove.github.io/heap/e2cf</link>
-    <guid>https://ivan-kopylove.github.io/heap/e2cf</guid>
-    <description><![CDATA[ Монтажники (кабелей, труб) быстро закрыли типовые ситуации и последующие разы действуют также как в прошлый раз, постепенно улучшая технику. ]]></description>
-    <pubDate>Thu, 04 Sep 2025 04:35:07 GMT</pubDate>
-  </item><item>
-    <title>packed up - base</title>
-    <link>https://ivan-kopylove.github.io/heap/8425</link>
-    <guid>https://ivan-kopylove.github.io/heap/8425</guid>
-    <description><![CDATA[  с какой целью занимать себя ритуалами? 360 check, на дорожку что делают? declare a place to be a what for further classifying? locations &amp; scenarios - standard and custom ones: morning, evening Info wallet Info keys Info documents Question what items do I usually forget / forgotten last time? Q... ]]></description>
-    <pubDate>Wed, 03 Sep 2025 09:09:41 GMT</pubDate>
-  </item><item>
-    <title>how to think</title>
-    <link>https://ivan-kopylove.github.io/heap/7e04</link>
-    <guid>https://ivan-kopylove.github.io/heap/7e04</guid>
-    <description><![CDATA[ What is the natural function of brain? by holding X in my hands while doing Y, what absorbs what? what is X? What at least 2 examples of Y? How to think Info Удерживать в голове какую-то одну идею и не мешая ждать пока мозг сам выполнит свою функцию через призму этой идеи. ]]></description>
-    <pubDate>Wed, 03 Sep 2025 06:47:05 GMT</pubDate>
-  </item><item>
-    <title>Гиперопека IDE</title>
-    <link>https://ivan-kopylove.github.io/heap/b9ac</link>
-    <guid>https://ivan-kopylove.github.io/heap/b9ac</guid>
-    <description><![CDATA[ Автомазиация в IDE - инспекции, автозаполнение и агенты. Когда рутины мало - помогает заземлиться, когда много - превращается в болото. ]]></description>
-    <pubDate>Tue, 02 Sep 2025 09:18:26 GMT</pubDate>
-  </item><item>
-    <title>Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths</title>
-    <link>https://ivan-kopylove.github.io/heap/0959</link>
-    <guid>https://ivan-kopylove.github.io/heap/0959</guid>
-    <description><![CDATA[ Meta Watching an MIT dynamic programming lection by Erik Demaine abouyt dynamic programming www.google.com/search+lecture+on+DP canvas Transclude of 0959.excalidraw ts I can think of DP as exhaustive search 1 - a careful BF? Notations ts …. ]]></description>
-    <pubDate>Mon, 01 Sep 2025 14:05:18 GMT</pubDate>
-  </item><item>
-    <title>Lecture 21 - Dynamic Programming III - Parenthesization, Edit Distance, Knapsack</title>
-    <link>https://ivan-kopylove.github.io/heap/09c0</link>
-    <guid>https://ivan-kopylove.github.io/heap/09c0</guid>
-    <description><![CDATA[ My very raw notes while watching lection about dynamic programming by Erik Demaine from MIT www.youtube.com/watch Raw . ]]></description>
-    <pubDate>Mon, 01 Sep 2025 14:05:18 GMT</pubDate>
+    <title>lifetime learned</title>
+    <link>https://ivan-kopylove.github.io/heap/095e</link>
+    <guid>https://ivan-kopylove.github.io/heap/095e</guid>
+    <description><![CDATA[ Questions has-a, is-a, relations what is via-negativa principle? how would I do it? Info что что, заняться нечем? оно мне надо? я здесь зачем? what is required from my side? what should I do? это как - can I have an example? exercises how to think Закрыл вкладку и попытался сделать исходя из того чт... ]]></description>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
   </item><item>
     <title>development</title>
     <link>https://ivan-kopylove.github.io/heap/0b25</link>
     <guid>https://ivan-kopylove.github.io/heap/0b25</guid>
     <description><![CDATA[ ToC system design testing engineering kotlin database java computer science DSA sql ACID SOLID git Инспекции, автозаполнение, агенты shared resource Про формализацию What is the difference between JOOQ vs Hibernate? What structures rebuild it’s structure when capacitly is reached? What are other cri... ]]></description>
-    <pubDate>Mon, 01 Sep 2025 14:05:18 GMT</pubDate>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+  </item><item>
+    <title>16. Dynamic Programming, Part 2: LCS, LIS, Coins</title>
+    <link>https://ivan-kopylove.github.io/heap/3ffd</link>
+    <guid>https://ivan-kopylove.github.io/heap/3ffd</guid>
+    <description><![CDATA[ Watching an MIT dynamic programming lection by Erik Demaine www.youtube.com/watch BF locally BF all the answers to a question (1, 2) . ]]></description>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+  </item><item>
+    <title>Skiena</title>
+    <link>https://ivan-kopylove.github.io/heap/45fa</link>
+    <guid>https://ivan-kopylove.github.io/heap/45fa</guid>
+    <description><![CDATA[ what is the difference between proof by induction and proof by contradiction? what is the similarity and difference between Divide and Conquer and dynamic programming?. ]]></description>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+  </item><item>
+    <title>47ac</title>
+    <link>https://ivan-kopylove.github.io/heap/47ac</link>
+    <guid>https://ivan-kopylove.github.io/heap/47ac</guid>
+    <description><![CDATA[ X = Java Thread.join Explain using similar things with little difference “it’s like X, but Y” Examples (no need to explain): cherry pick - merge merges the whole branch, but cherry pick what? volatile - ThreadLocal hides the visibility, and volatile is opposite - strongly exposes it what if there we... ]]></description>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+  </item><item>
+    <title>knapsack</title>
+    <link>https://ivan-kopylove.github.io/heap/4acb</link>
+    <guid>https://ivan-kopylove.github.io/heap/4acb</guid>
+    <description><![CDATA[ what combinations permutations this pattern is mapped to? what should I tweak here to convert between unbounded knapsack 0/1 knapsack? Transclude of bf97#^4e5268 Unbounded 2571. ]]></description>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+  </item><item>
+    <title>Notations</title>
+    <link>https://ivan-kopylove.github.io/heap/536e</link>
+    <guid>https://ivan-kopylove.github.io/heap/536e</guid>
+    <description><![CDATA[ 38 of what? what is asymptote per-se? Oh, theta, omega, T - what’s the difference? . ]]></description>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+  </item><item>
+    <title>Cardinality</title>
+    <link>https://ivan-kopylove.github.io/heap/5533</link>
+    <guid>https://ivan-kopylove.github.io/heap/5533</guid>
+    <description><![CDATA[ Вася пошёл в школу Info кардинальность передачи смысла низкая, потому что покрывает всех Вась на всей планете которые ходят в школу Вася Петров пошёл в школу Info чуть выше - why? Вася Петров пошёл в школу №15 Info чуть выше Вася Петров пошёл в школу №15 и там подрался с Петей Ивановым из 9Б Info вс... ]]></description>
+    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
