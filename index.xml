@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ivan Kopylov</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>add or remove barrier</title>
+    <link>https://ivan-kopylove.github.io/heap/afd0</link>
+    <guid>https://ivan-kopylove.github.io/heap/afd0</guid>
+    <description><![CDATA[ С глаз долой - откуда вон? В каких случаях добавлять барьеры? В каких случаях убирать барьеры? В каких случаях ломать автоматизм, а в каких сохранить? Info Вначале конфетно-букетный период, а потом закручивают гайки, главное что в закручивании гаек? Родители спрятали провод от игровой приставки. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 12:42:45 GMT</pubDate>
+  </item><item>
+    <title>via negativa</title>
+    <link>https://ivan-kopylove.github.io/heap/0b1c</link>
+    <guid>https://ivan-kopylove.github.io/heap/0b1c</guid>
+    <description><![CDATA[ what is the main via-negativa question? Examples: closing all the windows / tabs and reopening only needed (what shortcuts should I master?) Marie Kondo’s book about what? What Camp’s book? practice of refuse paradox of what? whose razor? not find the best solution, but rather avoid what? quick and ... ]]></description>
+    <pubDate>Wed, 10 Sep 2025 12:40:45 GMT</pubDate>
+  </item><item>
+    <title>Brain compensates vacuum</title>
+    <link>https://ivan-kopylove.github.io/heap/d8e1</link>
+    <guid>https://ivan-kopylove.github.io/heap/d8e1</guid>
+    <description><![CDATA[ То, что не используется - атрофируется. Величина интеллекта на планете - константа. Население растёт. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 12:37:46 GMT</pubDate>
+  </item><item>
+    <title>meta vs payload</title>
+    <link>https://ivan-kopylove.github.io/heap/77e4</link>
+    <guid>https://ivan-kopylove.github.io/heap/77e4</guid>
+    <description><![CDATA[ There is an administrative things, and there is a payload. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 11:26:04 GMT</pubDate>
+  </item><item>
+    <title>Drop temporarily</title>
+    <link>https://ivan-kopylove.github.io/heap/14d6</link>
+    <guid>https://ivan-kopylove.github.io/heap/14d6</guid>
+    <description><![CDATA[ Когда цена rollback после эксперимента приемлемая, бывает можно последовать via-negativa - убрать нечто временно, а затем решать что? Провести эксперимент, не что? Чтобы убедиться на практике. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 10:50:06 GMT</pubDate>
+  </item><item>
     <title>Про sandbox-игры</title>
     <link>https://ivan-kopylove.github.io/heap/1a08</link>
     <guid>https://ivan-kopylove.github.io/heap/1a08</guid>
-    <description><![CDATA[ Разработчики sandbox-игр при дизайне игры оперируют разными уровнями абстракции узлов (компонентов). Или иначе сказать - детализации. ]]></description>
-    <pubDate>Sat, 06 Sep 2025 10:04:17 GMT</pubDate>
+    <description><![CDATA[ Я более процессный человек по жизни, чем результатный, поэтому мне нравятся песочницы как пространство для экспериментов. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 09:35:17 GMT</pubDate>
   </item><item>
-    <title>Algorithm design</title>
-    <link>https://ivan-kopylove.github.io/heap/053a</link>
-    <guid>https://ivan-kopylove.github.io/heap/053a</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+    <title>Делать выраженным подразуемваемое</title>
+    <link>https://ivan-kopylove.github.io/heap/2cbd</link>
+    <guid>https://ivan-kopylove.github.io/heap/2cbd</guid>
+    <description><![CDATA[ От кого я узнал про это? К кому и в какой ситуации это применять? Что значит “формальный”? Как это относится к формализации? У людей есть интуитивная способность что перенимать от других людей, но для этого нужно что периодически? Info Периодически бывает полезно синкануться формальным общением, но ... ]]></description>
+    <pubDate>Wed, 10 Sep 2025 09:21:28 GMT</pubDate>
   </item><item>
-    <title>lifetime learned</title>
-    <link>https://ivan-kopylove.github.io/heap/095e</link>
-    <guid>https://ivan-kopylove.github.io/heap/095e</guid>
-    <description><![CDATA[ Questions has-a, is-a, relations what is via-negativa principle? how would I do it? Info что что, заняться нечем? оно мне надо? я здесь зачем? what is required from my side? what should I do? это как - can I have an example? exercises how to think Закрыл вкладку и попытался сделать исходя из того чт... ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+    <title>241. Different Ways to Add Parentheses</title>
+    <link>https://ivan-kopylove.github.io/leetcode/e5eb</link>
+    <guid>https://ivan-kopylove.github.io/leetcode/e5eb</guid>
+    <description><![CDATA[  peeked at solution problem definition github my submission obsidian . ]]></description>
+    <pubDate>Wed, 10 Sep 2025 05:02:16 GMT</pubDate>
   </item><item>
-    <title>development</title>
-    <link>https://ivan-kopylove.github.io/heap/0b25</link>
-    <guid>https://ivan-kopylove.github.io/heap/0b25</guid>
-    <description><![CDATA[ ToC system design testing engineering kotlin database java computer science DSA sql ACID SOLID git Инспекции, автозаполнение, агенты shared resource Про формализацию What is the difference between JOOQ vs Hibernate? What structures rebuild it’s structure when capacitly is reached? What are other cri... ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+    <title>62cb</title>
+    <link>https://ivan-kopylove.github.io/heap/62cb</link>
+    <guid>https://ivan-kopylove.github.io/heap/62cb</guid>
+    <description><![CDATA[ Какие дела IRL вешают cool down? Или иначе - какие вещи можно делать по принципу бери больше - кидай дальше, пока летит - занимайся каким-то делом. ]]></description>
+    <pubDate>Tue, 09 Sep 2025 16:32:56 GMT</pubDate>
   </item><item>
-    <title>16. Dynamic Programming, Part 2: LCS, LIS, Coins</title>
-    <link>https://ivan-kopylove.github.io/heap/3ffd</link>
-    <guid>https://ivan-kopylove.github.io/heap/3ffd</guid>
-    <description><![CDATA[ Watching an MIT dynamic programming lection by Erik Demaine www.youtube.com/watch BF locally BF all the answers to a question (1, 2) . ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
-  </item><item>
-    <title>Skiena</title>
-    <link>https://ivan-kopylove.github.io/heap/45fa</link>
-    <guid>https://ivan-kopylove.github.io/heap/45fa</guid>
-    <description><![CDATA[ what is the difference between proof by induction and proof by contradiction? what is the similarity and difference between Divide and Conquer and dynamic programming?. ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
-  </item><item>
-    <title>47ac</title>
-    <link>https://ivan-kopylove.github.io/heap/47ac</link>
-    <guid>https://ivan-kopylove.github.io/heap/47ac</guid>
-    <description><![CDATA[ X = Java Thread.join Explain using similar things with little difference “it’s like X, but Y” Examples (no need to explain): cherry pick - merge merges the whole branch, but cherry pick what? volatile - ThreadLocal hides the visibility, and volatile is opposite - strongly exposes it what if there we... ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
-  </item><item>
-    <title>knapsack</title>
-    <link>https://ivan-kopylove.github.io/heap/4acb</link>
-    <guid>https://ivan-kopylove.github.io/heap/4acb</guid>
-    <description><![CDATA[ what combinations permutations this pattern is mapped to? what should I tweak here to convert between unbounded knapsack 0/1 knapsack? Transclude of bf97#^4e5268 Unbounded 2571. ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
-  </item><item>
-    <title>Notations</title>
-    <link>https://ivan-kopylove.github.io/heap/536e</link>
-    <guid>https://ivan-kopylove.github.io/heap/536e</guid>
-    <description><![CDATA[ 38 of what? what is asymptote per-se? Oh, theta, omega, T - what’s the difference? . ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
-  </item><item>
-    <title>Cardinality</title>
-    <link>https://ivan-kopylove.github.io/heap/5533</link>
-    <guid>https://ivan-kopylove.github.io/heap/5533</guid>
-    <description><![CDATA[ Вася пошёл в школу Info кардинальность передачи смысла низкая, потому что покрывает всех Вась на всей планете которые ходят в школу Вася Петров пошёл в школу Info чуть выше - why? Вася Петров пошёл в школу №15 Info чуть выше Вася Петров пошёл в школу №15 и там подрался с Петей Ивановым из 9Б Info вс... ]]></description>
-    <pubDate>Thu, 04 Sep 2025 06:26:17 GMT</pubDate>
+    <title>proof by induction</title>
+    <link>https://ivan-kopylove.github.io/heap/42b7</link>
+    <guid>https://ivan-kopylove.github.io/heap/42b7</guid>
+    <description><![CDATA[ what did Erik say about proof by induction?. ]]></description>
+    <pubDate>Tue, 09 Sep 2025 08:46:38 GMT</pubDate>
   </item>
     </channel>
   </rss>
